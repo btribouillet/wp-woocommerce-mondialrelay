@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-12-06 11:26:54+0000\n"
+"PO-Revision-Date: 2016-12-30 13:50:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,10 @@ msgstr ""
 "X-Generator: GlotPress/2.3.0-alpha\n"
 "Language: fr\n"
 "Project-Id-Version: Plugins - WooCommerce - Stable (latest release)\n"
+
+#: includes/api/class-wc-rest-products-controller.php:769
+msgid "#%s is an invalid image ID."
+msgstr "#%s est un identifiant d&rsquo;image non valide."
 
 #: includes/admin/class-wc-admin-menus.php:105
 msgid "Extensions"
@@ -52,7 +56,7 @@ msgstr "La base de données GeoIP MaxMind n&rsquo;existe pas - La géolocalisati
 msgid "https://woocommerce.com/"
 msgstr "https://woocommerce.com/"
 
-#: includes/api/class-wc-rest-products-controller.php:2440
+#: includes/api/class-wc-rest-products-controller.php:2444
 msgid "If the variation is visible."
 msgstr "Si la variation est visible."
 
@@ -1290,441 +1294,441 @@ msgstr "Ventes nettes sur la période."
 msgid "Gross sales in the period."
 msgstr "Ventes brutes sur la période."
 
-#: includes/api/class-wc-rest-products-controller.php:2729
+#: includes/api/class-wc-rest-products-controller.php:2733
 msgid "Limit result set to products with a specific SKU."
 msgstr "Limiter le jeu de résultats aux produits avec un UGS spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2723
+#: includes/api/class-wc-rest-products-controller.php:2727
 msgid "Limit result set to products with a specific attribute term (required an assigned attribute)."
 msgstr "Limiter le jeu de résultats aux produits avec un terme d&rsquo;attribut spécifique (attribut affecté requis)."
 
-#: includes/api/class-wc-rest-products-controller.php:2717
+#: includes/api/class-wc-rest-products-controller.php:2721
 msgid "Limit result set to products with a specific attribute."
 msgstr "Limiter le jeu de résultats aux produits avec un attribut spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2711
+#: includes/api/class-wc-rest-products-controller.php:2715
 msgid "Limit result set to products assigned a specific shipping class."
 msgstr "Limiter le jeu de résultats aux produits affectés à une classe de livraison spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2705
+#: includes/api/class-wc-rest-products-controller.php:2709
 msgid "Limit result set to products assigned a specific tag."
 msgstr "Limiter le jeu de résultats aux produits affectés à une étiquette spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2699
+#: includes/api/class-wc-rest-products-controller.php:2703
 msgid "Limit result set to products assigned a specific category."
 msgstr "Limiter le jeu de résultats aux produits affectés à une catégorie spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2692
+#: includes/api/class-wc-rest-products-controller.php:2696
 msgid "Limit result set to products assigned a specific type."
 msgstr "Limiter le jeu de résultats aux produits affectés à un type spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2685
+#: includes/api/class-wc-rest-products-controller.php:2689
 msgid "Limit result set to products assigned a specific status."
 msgstr "Limiter le jeu de résultats aux produits affectés à un statut spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2679
+#: includes/api/class-wc-rest-products-controller.php:2683
 msgid "Limit result set to products with a specific slug."
 msgstr "Limiter le jeu de résultats aux produits avec un identifiant spécifique."
 
-#: includes/api/class-wc-rest-products-controller.php:2660
+#: includes/api/class-wc-rest-products-controller.php:2664
 msgid "Menu order, used to custom sort products."
 msgstr "Ordre du menu, utilisé pour le tri personnalisé des produits."
 
-#: includes/api/class-wc-rest-products-controller.php:2654
+#: includes/api/class-wc-rest-products-controller.php:2658
 msgid "List of grouped products ID."
 msgstr "Liste des identifiants de produits groupés."
 
-#: includes/api/class-wc-rest-products-controller.php:2581
+#: includes/api/class-wc-rest-products-controller.php:2585
 msgid "Variation image data."
 msgstr "Données d&rsquo;image de variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2563
+#: includes/api/class-wc-rest-products-controller.php:2567
 msgid "Variation height (%s)."
 msgstr "Hauteur de la variation (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2558
+#: includes/api/class-wc-rest-products-controller.php:2562
 msgid "Variation width (%s)."
 msgstr "Largeur de la variation (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2553
+#: includes/api/class-wc-rest-products-controller.php:2557
 msgid "Variation length (%s)."
 msgstr "Longueur de la variation (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2548
+#: includes/api/class-wc-rest-products-controller.php:2552
 msgid "Variation dimensions."
 msgstr "Dimensions de la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2543
+#: includes/api/class-wc-rest-products-controller.php:2547
 msgid "Variation weight (%s)."
 msgstr "Poids de la variation (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2537
+#: includes/api/class-wc-rest-products-controller.php:2541
 msgid "Shows if the variation is on backordered."
 msgstr "Indique si la variation est en rupture de stock."
 
-#: includes/api/class-wc-rest-products-controller.php:2518
+#: includes/api/class-wc-rest-products-controller.php:2522
 msgid "Controls whether or not the variation is listed as \"in stock\" or \"out of stock\" on the frontend."
 msgstr "Contrôle si la variation est listée comme &laquo;&nbsp;en stock&nbsp;&raquo; ou &laquo;&nbsp;en rupture&nbsp;&raquo; sur le site."
 
-#: includes/api/class-wc-rest-products-controller.php:2507
+#: includes/api/class-wc-rest-products-controller.php:2511
 msgid "Stock management at variation level."
 msgstr "Gestion des stocks au niveau des variations."
 
-#: includes/api/class-wc-rest-products-controller.php:2489
+#: includes/api/class-wc-rest-products-controller.php:2493
 msgid "Number of days that the customer has up to be able to download the variation."
 msgstr "Nombre de jours pendant lesquel le client a la possibilité de télécharger la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2483
+#: includes/api/class-wc-rest-products-controller.php:2487
 msgid "Amount of times the variation can be downloaded."
 msgstr "Nombre de fois que le produit peut être téléchargé."
 
-#: includes/api/class-wc-rest-products-controller.php:2451
+#: includes/api/class-wc-rest-products-controller.php:2455
 msgid "If the variation is downloadable."
 msgstr "Si la variation est téléchargeable."
 
-#: includes/api/class-wc-rest-products-controller.php:2445
+#: includes/api/class-wc-rest-products-controller.php:2449
 msgid "If the variation is virtual."
 msgstr "Si la variation est virtuelle."
 
-#: includes/api/class-wc-rest-products-controller.php:2434
+#: includes/api/class-wc-rest-products-controller.php:2438
 msgid "Shows if the variation can be bought."
 msgstr "Indique si la variation peut être acheté."
 
-#: includes/api/class-wc-rest-products-controller.php:2428
+#: includes/api/class-wc-rest-products-controller.php:2432
 msgid "Shows if the variation is on sale."
 msgstr "Indique si la variation est en promotion."
 
-#: includes/api/class-wc-rest-products-controller.php:2413
+#: includes/api/class-wc-rest-products-controller.php:2417
 msgid "Variation sale price."
 msgstr "Tarif promo de la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2408
+#: includes/api/class-wc-rest-products-controller.php:2412
 msgid "Variation regular price."
 msgstr "Tarif régulier de la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2402
+#: includes/api/class-wc-rest-products-controller.php:2406
 msgid "Current variation price."
 msgstr "Tarif actuel de la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2390
+#: includes/api/class-wc-rest-products-controller.php:2394
 msgid "Variation URL."
 msgstr "URL de la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2384
+#: includes/api/class-wc-rest-products-controller.php:2388
 msgid "The date the variation was last modified, in the site's timezone."
 msgstr "La date à laquelle la variation a été modifiée, en fuseau horaire du site."
 
-#: includes/api/class-wc-rest-products-controller.php:2378
+#: includes/api/class-wc-rest-products-controller.php:2382
 msgid "The date the variation was created, in the site's timezone."
 msgstr "La date à laquelle la variation a été créée, en fuseau horaire du site."
 
-#: includes/api/class-wc-rest-products-controller.php:2372
+#: includes/api/class-wc-rest-products-controller.php:2376
 msgid "Variation ID."
 msgstr "Identifiant de la variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2365
+#: includes/api/class-wc-rest-products-controller.php:2369
 msgid "List of variations."
 msgstr "Liste de variations."
 
-#: includes/api/class-wc-rest-products-controller.php:2357
-#: includes/api/class-wc-rest-products-controller.php:2643
+#: includes/api/class-wc-rest-products-controller.php:2361
+#: includes/api/class-wc-rest-products-controller.php:2647
 msgid "Selected attribute term name."
 msgstr "Nom de terme d&rsquo;attribut sélectionné."
 
-#: includes/api/class-wc-rest-products-controller.php:2340
+#: includes/api/class-wc-rest-products-controller.php:2344
 msgid "Defaults variation attributes."
 msgstr "Attributs de variation par défaut."
 
-#: includes/api/class-wc-rest-products-controller.php:2332
+#: includes/api/class-wc-rest-products-controller.php:2336
 msgid "List of available term names of the attribute."
 msgstr "Liste des noms de terme disponibles de l&rsquo;attribut."
 
-#: includes/api/class-wc-rest-products-controller.php:2326
+#: includes/api/class-wc-rest-products-controller.php:2330
 msgid "Define if the attribute can be used as variation."
 msgstr "Détermine su l&rsquo;attribut peut être utilisé comme variation."
 
-#: includes/api/class-wc-rest-products-controller.php:2320
+#: includes/api/class-wc-rest-products-controller.php:2324
 msgid "Define if the attribute is visible on the \"Additional Information\" tab in the product's page."
 msgstr "Détermine si l&rsquo;attribut est visible dans l&rsquo;onglet « Informations complémentaires » dans la page produit."
 
-#: includes/api/class-wc-rest-products-controller.php:2315
+#: includes/api/class-wc-rest-products-controller.php:2319
 msgid "Attribute position."
 msgstr "Position de l&rsquo;attribut."
 
-#: includes/api/class-wc-rest-products-controller.php:2305
-#: includes/api/class-wc-rest-products-controller.php:2347
-#: includes/api/class-wc-rest-products-controller.php:2633
+#: includes/api/class-wc-rest-products-controller.php:2309
+#: includes/api/class-wc-rest-products-controller.php:2351
+#: includes/api/class-wc-rest-products-controller.php:2637
 msgid "Attribute ID."
 msgstr "Identifiant d&rsquo;attribut."
 
-#: includes/api/class-wc-rest-products-controller.php:2298
-#: includes/api/class-wc-rest-products-controller.php:2626
+#: includes/api/class-wc-rest-products-controller.php:2302
+#: includes/api/class-wc-rest-products-controller.php:2630
 msgid "List of attributes."
 msgstr "Liste d&rsquo;attributs."
 
-#: includes/api/class-wc-rest-products-controller.php:2290
-#: includes/api/class-wc-rest-products-controller.php:2619
+#: includes/api/class-wc-rest-products-controller.php:2294
+#: includes/api/class-wc-rest-products-controller.php:2623
 msgid "Image position. 0 means that the image is featured."
 msgstr "Position de l&rsquo;image. 0 signifie que l&rsquo;image est à la une."
 
-#: includes/api/class-wc-rest-products-controller.php:2250
+#: includes/api/class-wc-rest-products-controller.php:2254
 msgid "List of images."
 msgstr "Liste d&rsquo;images."
 
-#: includes/api/class-wc-rest-products-controller.php:2241
+#: includes/api/class-wc-rest-products-controller.php:2245
 msgid "Tag slug."
 msgstr "Identifiant d&rsquo;étiquette."
 
-#: includes/api/class-wc-rest-products-controller.php:2230
+#: includes/api/class-wc-rest-products-controller.php:2234
 msgid "Tag ID."
 msgstr "Identifiant d&rsquo;étiquette."
 
-#: includes/api/class-wc-rest-products-controller.php:2223
+#: includes/api/class-wc-rest-products-controller.php:2227
 msgid "List of tags."
 msgstr "Liste des étiquettes."
 
-#: includes/api/class-wc-rest-products-controller.php:2214
+#: includes/api/class-wc-rest-products-controller.php:2218
 msgid "Category slug."
 msgstr "Identifiant de la catégorie."
 
-#: includes/api/class-wc-rest-products-controller.php:2203
+#: includes/api/class-wc-rest-products-controller.php:2207
 msgid "Category ID."
 msgstr "ID de catégorie."
 
-#: includes/api/class-wc-rest-products-controller.php:2196
+#: includes/api/class-wc-rest-products-controller.php:2200
 msgid "List of categories."
 msgstr "﻿Liste de catégories."
 
-#: includes/api/class-wc-rest-products-controller.php:2191
+#: includes/api/class-wc-rest-products-controller.php:2195
 msgid "Optional note to send the customer after purchase."
 msgstr "Note optionnelle à envoyer au client après l&rsquo;achat."
 
-#: includes/api/class-wc-rest-products-controller.php:2186
+#: includes/api/class-wc-rest-products-controller.php:2190
 msgid "Product parent ID."
 msgstr "Identifiant du parent du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:2181
+#: includes/api/class-wc-rest-products-controller.php:2185
 msgid "List of cross-sell products IDs."
 msgstr "Liste des identifiants de produits de vente croisée."
 
-#: includes/api/class-wc-rest-products-controller.php:2176
+#: includes/api/class-wc-rest-products-controller.php:2180
 msgid "List of up-sell products IDs."
 msgstr "Liste des identifiants des produits de montée en gamme."
 
-#: includes/api/class-wc-rest-products-controller.php:2170
+#: includes/api/class-wc-rest-products-controller.php:2174
 msgid "List of related products IDs."
 msgstr "Liste des identifiants de produits en relation."
 
-#: includes/api/class-wc-rest-products-controller.php:2164
+#: includes/api/class-wc-rest-products-controller.php:2168
 msgid "Amount of reviews that the product have."
 msgstr "Quantité d&rsquo;avis dont dispose le produit."
 
-#: includes/api/class-wc-rest-products-controller.php:2158
+#: includes/api/class-wc-rest-products-controller.php:2162
 msgid "Reviews average rating."
 msgstr "Moyenne de notation des avis."
 
-#: includes/api/class-wc-rest-products-controller.php:2152
+#: includes/api/class-wc-rest-products-controller.php:2156
 msgid "Allow reviews."
 msgstr "Autoriser les avis."
 
-#: includes/api/class-wc-rest-products-controller.php:2146
-#: includes/api/class-wc-rest-products-controller.php:2575
+#: includes/api/class-wc-rest-products-controller.php:2150
+#: includes/api/class-wc-rest-products-controller.php:2579
 msgid "Shipping class ID."
 msgstr "Identifiant de la classe de livraison."
 
-#: includes/api/class-wc-rest-products-controller.php:2141
-#: includes/api/class-wc-rest-products-controller.php:2570
+#: includes/api/class-wc-rest-products-controller.php:2145
+#: includes/api/class-wc-rest-products-controller.php:2574
 msgid "Shipping class slug."
 msgstr "Identifiant de la classe de livraison."
 
-#: includes/api/class-wc-rest-products-controller.php:2135
+#: includes/api/class-wc-rest-products-controller.php:2139
 msgid "Shows whether or not the product shipping is taxable."
 msgstr "Affiche si la livraison du produit est taxable ou non."
 
-#: includes/api/class-wc-rest-products-controller.php:2129
+#: includes/api/class-wc-rest-products-controller.php:2133
 msgid "Shows if the product need to be shipped."
 msgstr "Indique si le produit doit être expédié."
 
-#: includes/api/class-wc-rest-products-controller.php:2122
+#: includes/api/class-wc-rest-products-controller.php:2126
 msgid "Product height (%s)."
 msgstr "Hauteur du produit (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2117
+#: includes/api/class-wc-rest-products-controller.php:2121
 msgid "Product width (%s)."
 msgstr "Largeur du produit (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2112
+#: includes/api/class-wc-rest-products-controller.php:2116
 msgid "Product length (%s)."
 msgstr "Longueur du produit (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2107
+#: includes/api/class-wc-rest-products-controller.php:2111
 msgid "Product dimensions."
 msgstr "Dimensions du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:2102
+#: includes/api/class-wc-rest-products-controller.php:2106
 msgid "Product weight (%s)."
 msgstr "Poids du produit (%s)."
 
-#: includes/api/class-wc-rest-products-controller.php:2096
+#: includes/api/class-wc-rest-products-controller.php:2100
 msgid "Allow one item to be bought in a single order."
 msgstr "Ne permettre l&rsquo;achat que d&rsquo;un article dans une commande."
 
-#: includes/api/class-wc-rest-products-controller.php:2090
+#: includes/api/class-wc-rest-products-controller.php:2094
 msgid "Shows if the product is on backordered."
 msgstr "Indique si le produit est en rupture de stock."
 
-#: includes/api/class-wc-rest-products-controller.php:2084
-#: includes/api/class-wc-rest-products-controller.php:2531
+#: includes/api/class-wc-rest-products-controller.php:2088
+#: includes/api/class-wc-rest-products-controller.php:2535
 msgid "Shows if backorders are allowed."
 msgstr "Indique si les commandes en réassorts sont autorisés."
 
-#: includes/api/class-wc-rest-products-controller.php:2077
-#: includes/api/class-wc-rest-products-controller.php:2524
+#: includes/api/class-wc-rest-products-controller.php:2081
+#: includes/api/class-wc-rest-products-controller.php:2528
 msgid "If managing stock, this controls if backorders are allowed."
 msgstr "Si vous gérez le stock, cela détermine si les commandes en réassort sont autorisées."
 
-#: includes/api/class-wc-rest-products-controller.php:2066
-#: includes/api/class-wc-rest-products-controller.php:2513
+#: includes/api/class-wc-rest-products-controller.php:2070
+#: includes/api/class-wc-rest-products-controller.php:2517
 msgid "Stock quantity."
 msgstr "Quantité en stock."
 
-#: includes/api/class-wc-rest-products-controller.php:2060
+#: includes/api/class-wc-rest-products-controller.php:2064
 msgid "Stock management at product level."
 msgstr "Gestion du stock au niveau produit."
 
-#: includes/api/class-wc-rest-products-controller.php:2048
-#: includes/api/class-wc-rest-products-controller.php:2495
+#: includes/api/class-wc-rest-products-controller.php:2052
+#: includes/api/class-wc-rest-products-controller.php:2499
 msgid "Tax status."
 msgstr "État de la TVA."
 
-#: includes/api/class-wc-rest-products-controller.php:2043
+#: includes/api/class-wc-rest-products-controller.php:2047
 msgid "Product external button text. Only for external products."
 msgstr "Texte du bouton du produit externe. Uniquement pour les produits externes."
 
-#: includes/api/class-wc-rest-products-controller.php:2037
+#: includes/api/class-wc-rest-products-controller.php:2041
 msgid "Product external URL. Only for external products."
 msgstr "URL du produit externe. Uniquement pour les produits externes."
 
-#: includes/api/class-wc-rest-products-controller.php:2030
+#: includes/api/class-wc-rest-products-controller.php:2034
 msgid "Download type, this controls the schema on the front-end."
 msgstr "Type de téléchargement, cela détermine le schéma sur le site."
 
-#: includes/api/class-wc-rest-products-controller.php:2024
+#: includes/api/class-wc-rest-products-controller.php:2028
 msgid "Number of days that the customer has up to be able to download the product."
 msgstr "Nombre de jours pendant lesquels le client a la possibilité de télécharger le produit."
 
-#: includes/api/class-wc-rest-products-controller.php:2018
+#: includes/api/class-wc-rest-products-controller.php:2022
 msgid "Amount of times the product can be downloaded."
 msgstr "Nombre de fois que le produit peut être téléchargé."
 
-#: includes/api/class-wc-rest-products-controller.php:1999
-#: includes/api/class-wc-rest-products-controller.php:2464
+#: includes/api/class-wc-rest-products-controller.php:2003
+#: includes/api/class-wc-rest-products-controller.php:2468
 msgid "File MD5 hash."
 msgstr "Hachage MD5 du fichier."
 
-#: includes/api/class-wc-rest-products-controller.php:1992
-#: includes/api/class-wc-rest-products-controller.php:2457
+#: includes/api/class-wc-rest-products-controller.php:1996
+#: includes/api/class-wc-rest-products-controller.php:2461
 msgid "List of downloadable files."
 msgstr "Liste de fichiers téléchargeables."
 
-#: includes/api/class-wc-rest-products-controller.php:1986
+#: includes/api/class-wc-rest-products-controller.php:1990
 msgid "If the product is downloadable."
 msgstr "Si le produit est téléchargeable."
 
-#: includes/api/class-wc-rest-products-controller.php:1980
+#: includes/api/class-wc-rest-products-controller.php:1984
 msgid "If the product is virtual."
 msgstr "Si le produit est virtuel."
 
-#: includes/api/class-wc-rest-products-controller.php:1974
+#: includes/api/class-wc-rest-products-controller.php:1978
 msgid "Amount of sales."
 msgstr "Montant des ventes."
 
-#: includes/api/class-wc-rest-products-controller.php:1968
+#: includes/api/class-wc-rest-products-controller.php:1972
 msgid "Shows if the product can be bought."
 msgstr "Indique si le produit peut être acheté."
 
-#: includes/api/class-wc-rest-products-controller.php:1962
+#: includes/api/class-wc-rest-products-controller.php:1966
 msgid "Shows if the product is on sale."
 msgstr "Indique si le produit est en promotion."
 
-#: includes/api/class-wc-rest-products-controller.php:1956
+#: includes/api/class-wc-rest-products-controller.php:1960
 msgid "Price formatted in HTML."
 msgstr "Tarif formaté en HTML."
 
-#: includes/api/class-wc-rest-products-controller.php:1951
-#: includes/api/class-wc-rest-products-controller.php:2423
+#: includes/api/class-wc-rest-products-controller.php:1955
+#: includes/api/class-wc-rest-products-controller.php:2427
 msgid "End data of sale price."
 msgstr "Données finales du tarif promo."
 
-#: includes/api/class-wc-rest-products-controller.php:1946
-#: includes/api/class-wc-rest-products-controller.php:2418
+#: includes/api/class-wc-rest-products-controller.php:1950
+#: includes/api/class-wc-rest-products-controller.php:2422
 msgid "Start date of sale price."
 msgstr "Date de début du tarif promo."
 
-#: includes/api/class-wc-rest-products-controller.php:1941
+#: includes/api/class-wc-rest-products-controller.php:1945
 msgid "Product sale price."
 msgstr "Tarif de promotion."
 
-#: includes/api/class-wc-rest-products-controller.php:1936
+#: includes/api/class-wc-rest-products-controller.php:1940
 msgid "Product regular price."
 msgstr "Tarif régulier du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:1930
+#: includes/api/class-wc-rest-products-controller.php:1934
 msgid "Current product price."
 msgstr "Tarif actuel du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:1925
-#: includes/api/class-wc-rest-products-controller.php:2397
+#: includes/api/class-wc-rest-products-controller.php:1929
+#: includes/api/class-wc-rest-products-controller.php:2401
 msgid "Unique identifier."
 msgstr "Identifiant unique."
 
-#: includes/api/class-wc-rest-products-controller.php:1920
+#: includes/api/class-wc-rest-products-controller.php:1924
 msgid "Product short description."
 msgstr "Description courte du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:1915
+#: includes/api/class-wc-rest-products-controller.php:1919
 msgid "Product description."
 msgstr "Description du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:1908
+#: includes/api/class-wc-rest-products-controller.php:1912
 msgid "Catalog visibility."
 msgstr "Visibilité du catalogue."
 
-#: includes/api/class-wc-rest-products-controller.php:1902
+#: includes/api/class-wc-rest-products-controller.php:1906
 msgid "Featured product."
 msgstr "Produit en avant."
 
-#: includes/api/class-wc-rest-products-controller.php:1895
+#: includes/api/class-wc-rest-products-controller.php:1899
 msgid "Product status (post status)."
 msgstr "État du produit (état de l&rsquo;article)."
 
-#: includes/api/class-wc-rest-products-controller.php:1888
+#: includes/api/class-wc-rest-products-controller.php:1892
 msgid "Product type."
 msgstr "Type de produit."
 
-#: includes/api/class-wc-rest-products-controller.php:1882
+#: includes/api/class-wc-rest-products-controller.php:1886
 msgid "The date the product was last modified, in the site's timezone."
 msgstr "La date à laquelle le produit a été modifié, en fuseau horaire du site."
 
-#: includes/api/class-wc-rest-products-controller.php:1876
+#: includes/api/class-wc-rest-products-controller.php:1880
 msgid "The date the product was created, in the site's timezone."
 msgstr "La date à laquelle le produit a été créé, en fuseau horaire du site."
 
-#: includes/api/class-wc-rest-products-controller.php:1869
+#: includes/api/class-wc-rest-products-controller.php:1873
 msgid "Product URL."
 msgstr "URL du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:1864
+#: includes/api/class-wc-rest-products-controller.php:1868
 msgid "Product slug."
 msgstr "Identifiant du produit."
 
-#: includes/api/class-wc-rest-products-controller.php:964
-#: includes/api/class-wc-rest-products-controller.php:1372
+#: includes/api/class-wc-rest-products-controller.php:968
+#: includes/api/class-wc-rest-products-controller.php:1376
 msgid "The SKU already exists on another product."
 msgstr "L&rsquo;UGS existe déjà sur un autre produit."
 
 #: includes/api/class-wc-rest-product-tags-controller.php:100
-#: includes/api/class-wc-rest-products-controller.php:2235
+#: includes/api/class-wc-rest-products-controller.php:2239
 msgid "Tag name."
 msgstr "Nom d&rsquo;étiquette."
 
@@ -1758,38 +1762,38 @@ msgid "Invalid product id."
 msgstr "Identifiant de produit non valide."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:243
-#: includes/api/class-wc-rest-products-controller.php:2285
-#: includes/api/class-wc-rest-products-controller.php:2614
+#: includes/api/class-wc-rest-products-controller.php:2289
+#: includes/api/class-wc-rest-products-controller.php:2618
 msgid "Image alternative text."
 msgstr "Texte alternatif de l&rsquo;image."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:238
-#: includes/api/class-wc-rest-products-controller.php:2280
-#: includes/api/class-wc-rest-products-controller.php:2609
+#: includes/api/class-wc-rest-products-controller.php:2284
+#: includes/api/class-wc-rest-products-controller.php:2613
 msgid "Image name."
 msgstr "Nom de l&rsquo;image."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:232
-#: includes/api/class-wc-rest-products-controller.php:2274
-#: includes/api/class-wc-rest-products-controller.php:2603
+#: includes/api/class-wc-rest-products-controller.php:2278
+#: includes/api/class-wc-rest-products-controller.php:2607
 msgid "Image URL."
 msgstr "URL de l&rsquo;image."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:226
-#: includes/api/class-wc-rest-products-controller.php:2268
-#: includes/api/class-wc-rest-products-controller.php:2597
+#: includes/api/class-wc-rest-products-controller.php:2272
+#: includes/api/class-wc-rest-products-controller.php:2601
 msgid "The date the image was last modified, in the site's timezone."
 msgstr "La date à laquelle l&rsquo;image a été modifiée, en fuseau horaire du site."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:220
-#: includes/api/class-wc-rest-products-controller.php:2262
-#: includes/api/class-wc-rest-products-controller.php:2591
+#: includes/api/class-wc-rest-products-controller.php:2266
+#: includes/api/class-wc-rest-products-controller.php:2595
 msgid "The date the image was created, in the site's timezone."
 msgstr "La date à laquelle l&rsquo;image a été créée, en fuseau horaire du site."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:215
-#: includes/api/class-wc-rest-products-controller.php:2257
-#: includes/api/class-wc-rest-products-controller.php:2586
+#: includes/api/class-wc-rest-products-controller.php:2261
+#: includes/api/class-wc-rest-products-controller.php:2590
 msgid "Image ID."
 msgstr "ID de l&rsquo;image"
 
@@ -1806,7 +1810,7 @@ msgid "The id for the parent of the resource."
 msgstr "L&rsquo;identifiant du parent de la ressource."
 
 #: includes/api/class-wc-rest-product-categories-controller.php:174
-#: includes/api/class-wc-rest-products-controller.php:2208
+#: includes/api/class-wc-rest-products-controller.php:2212
 msgid "Category name."
 msgstr "Nom de la catégorie."
 
@@ -1835,9 +1839,9 @@ msgid "Type of attribute."
 msgstr "Type d&rsquo;attribut."
 
 #: includes/api/class-wc-rest-product-attributes-controller.php:531
-#: includes/api/class-wc-rest-products-controller.php:2310
-#: includes/api/class-wc-rest-products-controller.php:2352
-#: includes/api/class-wc-rest-products-controller.php:2638
+#: includes/api/class-wc-rest-products-controller.php:2314
+#: includes/api/class-wc-rest-products-controller.php:2356
+#: includes/api/class-wc-rest-products-controller.php:2642
 msgid "Attribute name."
 msgstr "Nom de l&rsquo;attribut."
 
@@ -2261,7 +2265,7 @@ msgstr "Identifiant de la variation, si applicable."
 
 #: includes/api/class-wc-rest-order-refunds-controller.php:382
 #: includes/api/class-wc-rest-orders-controller.php:1438
-#: includes/api/class-wc-rest-products-controller.php:1859
+#: includes/api/class-wc-rest-products-controller.php:1863
 #: includes/api/class-wc-rest-report-top-sellers-controller.php:152
 msgid "Product name."
 msgstr "Nom du produit."
@@ -2494,7 +2498,7 @@ msgstr "La date à laquelle le client a été créé, en fuseau horaire du site.
 #: includes/api/class-wc-rest-product-reviews-controller.php:220
 #: includes/api/class-wc-rest-product-shipping-classes-controller.php:94
 #: includes/api/class-wc-rest-product-tags-controller.php:94
-#: includes/api/class-wc-rest-products-controller.php:1853
+#: includes/api/class-wc-rest-products-controller.php:1857
 #: includes/api/class-wc-rest-tax-classes-controller.php:325
 #: includes/api/class-wc-rest-taxes-controller.php:568
 #: includes/api/class-wc-rest-webhook-deliveries.php:218
@@ -2539,14 +2543,14 @@ msgid "Cannot create existing resource."
 msgstr "Impossible de créer la ressource existante."
 
 #: includes/api/class-wc-rest-customer-downloads-controller.php:220
-#: includes/api/class-wc-rest-products-controller.php:2010
-#: includes/api/class-wc-rest-products-controller.php:2475
+#: includes/api/class-wc-rest-products-controller.php:2014
+#: includes/api/class-wc-rest-products-controller.php:2479
 msgid "File URL."
 msgstr "URL du fichier."
 
 #: includes/api/class-wc-rest-customer-downloads-controller.php:214
-#: includes/api/class-wc-rest-products-controller.php:2005
-#: includes/api/class-wc-rest-products-controller.php:2470
+#: includes/api/class-wc-rest-products-controller.php:2009
+#: includes/api/class-wc-rest-products-controller.php:2474
 msgid "File name."
 msgstr "Nom du fichier."
 
@@ -2587,100 +2591,100 @@ msgstr "Identifiant de téléchargement (MD5)."
 msgid "Download file URL."
 msgstr "URL du fichier téléchargeable."
 
-#: includes/api/class-wc-rest-coupons-controller.php:575
+#: includes/api/class-wc-rest-coupons-controller.php:574
 msgid "Limit result set to resources with a specific code."
 msgstr "Limiter le jeu de résultats aux ressources avec un code spécifique."
 
-#: includes/api/class-wc-rest-coupons-controller.php:555
+#: includes/api/class-wc-rest-coupons-controller.php:554
 msgid "List of user IDs who have used the coupon."
 msgstr "Liste des identifiants d&rsquo;utilisateurs qui ont utilisé le code promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:550
+#: includes/api/class-wc-rest-coupons-controller.php:549
 msgid "List of email addresses that can use this coupon."
 msgstr "Liste des adresses de messagerie qui peuvent utiliser ce code promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:545
+#: includes/api/class-wc-rest-coupons-controller.php:544
 msgid "Maximum order amount allowed when using the coupon."
 msgstr "Montant maximum de commande autorisé lors de l&rsquo;utilisation du code promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:540
+#: includes/api/class-wc-rest-coupons-controller.php:539
 msgid "Minimum order amount that needs to be in the cart before coupon applies."
 msgstr "Montant minimum de commande qui doit être dans le panier avant que le code promo ne s&rsquo;applique."
 
-#: includes/api/class-wc-rest-coupons-controller.php:534
+#: includes/api/class-wc-rest-coupons-controller.php:533
 msgid "Define if should not apply when have sale items."
 msgstr "Détermine si ne doit pas être appliqué aux articles en promotion."
 
-#: includes/api/class-wc-rest-coupons-controller.php:529
+#: includes/api/class-wc-rest-coupons-controller.php:528
 msgid "List of category ID's the coupon does not apply to."
 msgstr "Liste des identifiants de catégories pour lesquels le code promo ne peut pas être utilisé."
 
-#: includes/api/class-wc-rest-coupons-controller.php:524
+#: includes/api/class-wc-rest-coupons-controller.php:523
 msgid "List of category ID's the coupon applies to."
 msgstr "Liste des identifiants de catégories pour lesquels le code promo peut être utilisé."
 
-#: includes/api/class-wc-rest-coupons-controller.php:518
+#: includes/api/class-wc-rest-coupons-controller.php:517
 msgid "Define if can be applied for free shipping."
 msgstr "Détermine si peut être appliqué pour la livraison gratuite."
 
-#: includes/api/class-wc-rest-coupons-controller.php:513
+#: includes/api/class-wc-rest-coupons-controller.php:512
 msgid "Max number of items in the cart the coupon can be applied to."
 msgstr "Nombre maximum d&rsquo;articles dans le panier auxquels le code promo peut être appliqué."
 
-#: includes/api/class-wc-rest-coupons-controller.php:508
+#: includes/api/class-wc-rest-coupons-controller.php:507
 msgid "How many times the coupon can be used per customer."
 msgstr "Nombre de fois que le code promo peut être utilisé par client."
 
-#: includes/api/class-wc-rest-coupons-controller.php:503
+#: includes/api/class-wc-rest-coupons-controller.php:502
 msgid "How many times the coupon can be used."
 msgstr "Combien de fois le coupon peut être utilisé."
 
-#: includes/api/class-wc-rest-coupons-controller.php:498
+#: includes/api/class-wc-rest-coupons-controller.php:497
 msgid "List of product ID's the coupon cannot be used on."
 msgstr "Liste des identifiants de produits pour lesquels le code promo ne peut pas être utilisé."
 
-#: includes/api/class-wc-rest-coupons-controller.php:493
+#: includes/api/class-wc-rest-coupons-controller.php:492
 msgid "List of product ID's the coupon can be used on."
 msgstr "Liste des identifiants de produits pour lesquels le code promo peut être utilisé."
 
-#: includes/api/class-wc-rest-coupons-controller.php:487
+#: includes/api/class-wc-rest-coupons-controller.php:486
 msgid "Whether coupon can only be used individually."
 msgstr "Si le code promo ne peut pas être utilisé conjointement avec d&rsquo;autres codes promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:481
+#: includes/api/class-wc-rest-coupons-controller.php:480
 msgid "Number of times the coupon has been used already."
 msgstr "Nombre de fois que le code promo a déjà été utilisé."
 
-#: includes/api/class-wc-rest-coupons-controller.php:476
+#: includes/api/class-wc-rest-coupons-controller.php:475
 msgid "UTC DateTime when the coupon expires."
 msgstr "DateTime UTC de l&rsquo;expiration du code promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:471
+#: includes/api/class-wc-rest-coupons-controller.php:470
 msgid "The amount of discount."
 msgstr "Le montant de la remise."
 
-#: includes/api/class-wc-rest-coupons-controller.php:464
+#: includes/api/class-wc-rest-coupons-controller.php:463
 msgid "Determines the type of discount that will be applied."
 msgstr "Détermine le type de remise qui sera appliqué."
 
-#: includes/api/class-wc-rest-coupons-controller.php:459
+#: includes/api/class-wc-rest-coupons-controller.php:458
 msgid "Coupon description."
 msgstr "Description du code promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:453
+#: includes/api/class-wc-rest-coupons-controller.php:452
 msgid "The date the coupon was last modified, in the site's timezone."
 msgstr "La date à laquelle le code promo a été modifié, en fuseau horaire du site."
 
-#: includes/api/class-wc-rest-coupons-controller.php:447
+#: includes/api/class-wc-rest-coupons-controller.php:446
 msgid "The date the coupon was created, in the site's timezone."
 msgstr "La date à laquelle le code promo a été créé, en fuseau horaire du site."
 
-#: includes/api/class-wc-rest-coupons-controller.php:442
+#: includes/api/class-wc-rest-coupons-controller.php:441
 #: includes/api/class-wc-rest-orders-controller.php:1754
 msgid "Coupon code."
 msgstr "Code promo."
 
-#: includes/api/class-wc-rest-coupons-controller.php:436
+#: includes/api/class-wc-rest-coupons-controller.php:435
 msgid "Unique identifier for the object."
 msgstr "Identifiant unique pour l&rsquo;objet."
 
@@ -3438,28 +3442,28 @@ msgstr "Limiter les réponses aux ressources publiées après une certaine date 
 
 #: includes/abstracts/abstract-wc-rest-posts-controller.php:460
 #: includes/api/class-wc-rest-order-notes-controller.php:295
-#: includes/api/class-wc-rest-products-controller.php:1819
+#: includes/api/class-wc-rest-products-controller.php:1823
 #: includes/api/class-wc-rest-webhooks-controller.php:314
 msgid "The %s cannot be deleted."
 msgstr "Le %s ne peut être supprimé."
 
 #: includes/abstracts/abstract-wc-rest-posts-controller.php:451
-#: includes/api/class-wc-rest-products-controller.php:1810
+#: includes/api/class-wc-rest-products-controller.php:1814
 msgid "The %s has already been deleted."
 msgstr "Ce %s a déjà été supprimé."
 
 #: includes/abstracts/abstract-wc-rest-posts-controller.php:446
-#: includes/api/class-wc-rest-products-controller.php:1805
+#: includes/api/class-wc-rest-products-controller.php:1809
 msgid "The %s does not support trashing."
 msgstr "%s ne supporte pas la mise à la corbeille."
 
 #: includes/abstracts/abstract-wc-rest-posts-controller.php:434
-#: includes/api/class-wc-rest-products-controller.php:1774
+#: includes/api/class-wc-rest-products-controller.php:1778
 msgid "Sorry, you are not allowed to delete %s."
 msgstr "Désolé, vous n&rsquo;êtes pas autorisé à supprimer %s."
 
 #: includes/abstracts/abstract-wc-rest-posts-controller.php:418
-#: includes/api/class-wc-rest-products-controller.php:1758
+#: includes/api/class-wc-rest-products-controller.php:1762
 #: includes/api/class-wc-rest-webhooks-controller.php:305
 msgid "Invalid post id."
 msgstr "Identifiant d&rsquo;article non valable."
@@ -5241,6 +5245,7 @@ msgstr "Sélectionnez une catégorie"
 
 #: includes/wc-template-functions.php:1913
 #: includes/wc-template-functions.php:2060
+#: includes/wc-template-functions.php:2070
 msgid "Choose an option"
 msgstr "Choisir une option"
 
@@ -11245,13 +11250,13 @@ msgstr "%s coupons utilisés au total"
 msgid "%s discounts in total"
 msgstr "%s remises au total"
 
-#: includes/admin/reports/class-wc-admin-report.php:486
+#: includes/admin/reports/class-wc-admin-report.php:498
 msgid "Sold 1 item in the last %d days"
 msgid_plural "Sold %d items in the last %d days"
 msgstr[0] "Vendu 1 article sur les %d derniers jours"
 msgstr[1] "Vendu %d articles sur les %d derniers jours"
 
-#: includes/admin/reports/class-wc-admin-report.php:484
+#: includes/admin/reports/class-wc-admin-report.php:496
 msgid "Sold %s worth in the last %d days"
 msgstr "Vendu une valeur de %s sur les %d derniers jours"
 
@@ -11259,8 +11264,8 @@ msgstr "Vendu une valeur de %s sur les %d derniers jours"
 msgid "Variation description"
 msgstr "Description de la variation"
 
-#: includes/api/class-wc-rest-products-controller.php:2055
-#: includes/api/class-wc-rest-products-controller.php:2502
+#: includes/api/class-wc-rest-products-controller.php:2059
+#: includes/api/class-wc-rest-products-controller.php:2506
 #: includes/api/class-wc-rest-taxes-controller.php:627
 msgid "Tax class."
 msgstr "Classe de TVA."
@@ -11648,7 +11653,7 @@ msgstr "n&deg;%s &ndash; L&rsquo;UGS de la variation doit être unique."
 
 #: includes/admin/class-wc-admin-duplicate-product.php:167
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1289
-#: includes/api/class-wc-rest-products-controller.php:1325
+#: includes/api/class-wc-rest-products-controller.php:1329
 #: includes/api/legacy/v2/class-wc-api-products.php:1263
 #: includes/api/legacy/v3/class-wc-api-products.php:1758
 #: includes/cli/class-wc-cli-product.php:1536
@@ -11941,7 +11946,7 @@ msgstr "Vendre individuellement"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:330
 #: includes/admin/meta-boxes/views/html-variation-admin.php:160
-#: includes/api/class-wc-rest-products-controller.php:2071
+#: includes/api/class-wc-rest-products-controller.php:2075
 msgid "Controls whether or not the product is listed as \"in stock\" or \"out of stock\" on the frontend."
 msgstr "Contrôle si le produit est listé comme &laquo;&nbsp;en stock&nbsp;&raquo; ou &laquo;&nbsp;en rupture&nbsp;&raquo; sur le site."
 
@@ -15402,7 +15407,7 @@ msgstr "Stock de l&rsquo;article %1$s variation n&deg;%2$s réduit de %3$s à %4
 msgid "Order status changed from %1$s to %2$s."
 msgstr "État de la commande modifié de %1$s à %2$s."
 
-#. #-#-#-#-#  tmp-woocommerce.pot (WooCommerce 2.6.9)  #-#-#-#-#
+#. #-#-#-#-#  tmp-woocommerce.pot (WooCommerce 2.6.11)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: includes/abstracts/abstract-wc-order.php:2320
 #: includes/abstracts/abstract-wc-order.php:2321

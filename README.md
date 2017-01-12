@@ -11,8 +11,8 @@ WooCommerce Mondial Relay documentation (in French only) : http://docs.mondialre
 ## Components version
 
 Component | Version
-|:--- |:---- 
-Wordpress | 4.7
+|:--- |:----
+Wordpress | 4.7.1
 WooCommerce | 2.6.11
 Storefront | 2.1.6
 
@@ -64,7 +64,7 @@ You can create an Google API Key on https://developers.google.com/maps/documenta
 ### Shipping methods
 
 Region | Method | Name | Price
-|:--- |:---- |:---- |:---- 
+|:--- |:---- |:---- |:----
 France | Flat rate | Mondial Relay France | 3 €
 France | Flat rate | Autre livraison France | 2 €
 Europe | Flat rate | Mondial Relay Europe | 5 €
