@@ -13,8 +13,8 @@ WooCommerce Mondial Relay documentation (in French only) : http://docs.mondialre
 Component | Version
 |:--- |:----
 Wordpress | 4.7.1
-WooCommerce | 2.6.11
-Storefront | 2.1.6
+WooCommerce | 2.6.13
+Storefront | 2.1.7
 
 ## Installation
 
