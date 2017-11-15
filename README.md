@@ -1,27 +1,29 @@
 # Wordpress WooCommerce Mondial Relay
 
-A Wordpress/WooCommerce website configured for WooCommerce Mondial Relay plugin.
+A Wordpress/WooCommerce website configured for WooCommerce Mondial Relay plugin.<br>
+You can use it to test the [WooCommerce Mondial Relay plugin](https://www.mondialrelay-woocommerce.com) in a standardized configuration.
 
-You can use it to test the WooCommerce Mondial Relay plugin in a standardized configuration.
-
-More informations about WooCommerce Mondial Relay : https://www.mondialrelay-woocommerce.com/
-
-WooCommerce Mondial Relay documentation (in French only) : http://docs.mondialrelay-woocommerce.com/
+- More informations about WooCommerce Mondial Relay plugin : https://www.mondialrelay-woocommerce.com/<br>
+- WooCommerce Mondial Relay plugin documentation (in French only) : https://docs.mondialrelay-woocommerce.com/
 
 ## Components version
 
 Component | Version
 |:--- |:----
-Wordpress | 4.7.1
-WooCommerce | 2.6.13
-Storefront | 2.1.7
+Wordpress | 4.8.3
+WooCommerce | 3.2.3
+Storefront | 2.2.5
 
 ## Installation
 
 - Copy this project on your server
-- Import ``database.sql`` in your database
-- Replace ``wp-config.php`` database informations by yours
-- Change the url of your server on ``wpwc_options`` table in fields :
+- Import `database.sql` in your database
+- Replace `wp-config.php` database informations by yours
+	- define('DB_NAME', 'woocommerce-mondialrelay-test');
+	- define('DB_USER', 'root');
+	- define('DB_PASSWORD', '');
+	- define('DB_HOST', 'localhost');
+- Change the url of your server in Wordpress admin in Settings > General or change it directly on `wpwc_options` table in fields :
 	- siteurl
 	- home
 - WooCommerce is already configured. [See details here](#woocommerce-configuration).
@@ -43,7 +45,6 @@ You can create an Google API Key on https://developers.google.com/maps/documenta
 
 ## Themes installed
 
-- Twenty Seventeen
 - Storefront *(activated)*
 
 ## Plugins installed
@@ -102,6 +103,6 @@ Shipping method activated for Mondial Relay:
 
 ```css
 img {
-        display: inline-block!important;
+    display: inline-block!important;
 }
 ```

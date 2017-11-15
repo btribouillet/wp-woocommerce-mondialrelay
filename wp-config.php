@@ -19,7 +19,7 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define('DB_NAME', 'wp_woocommerce');
+define('DB_NAME', 'woocommerce-mondialrelay-test');
 
 /** Utilisateur de la base de données MySQL. */
 define('DB_USER', 'root');
@@ -49,14 +49,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'CHlv}#R-rM<,=%0(i%{aA+*1aMYgoy-w{w&lSj/w_&VOg3DX#Mo.yxD7-RkET$k ');
-define('SECURE_AUTH_KEY',  'F=IVYI/f0o5)HlwsGXKvtD?`zJcrIy)V/&ne 5qkr8U@gib|uJKF(:P6N#|^KPy~');
-define('LOGGED_IN_KEY',    'C)jp9wDpP/nxbq:;H>wxW/A)/*^#mt#uwMcc2J)c,KWxHb%eTmYfln^Iq*)_wEEl');
-define('NONCE_KEY',        'YC8;eo -rH%Iu<NeciX9}XO}N=[lF`?RH1l(p[X@]]KPqZUe0Slyg@Q%$,#/O$[+');
-define('AUTH_SALT',        '`rmIWorQJ9eoC#W=KF^4%<EW!]8 LQ,:,$Pf{NQd8u 2gE|4%=[sQT*KqB1XNu@o');
+define('AUTH_KEY', 'CHlv}#R-rM<,=%0(i%{aA+*1aMYgoy-w{w&lSj/w_&VOg3DX#Mo.yxD7-RkET$k ');
+define('SECURE_AUTH_KEY', 'F=IVYI/f0o5)HlwsGXKvtD?`zJcrIy)V/&ne 5qkr8U@gib|uJKF(:P6N#|^KPy~');
+define('LOGGED_IN_KEY', 'C)jp9wDpP/nxbq:;H>wxW/A)/*^#mt#uwMcc2J)c,KWxHb%eTmYfln^Iq*)_wEEl');
+define('NONCE_KEY', 'YC8;eo -rH%Iu<NeciX9}XO}N=[lF`?RH1l(p[X@]]KPqZUe0Slyg@Q%$,#/O$[+');
+define('AUTH_SALT', '`rmIWorQJ9eoC#W=KF^4%<EW!]8 LQ,:,$Pf{NQd8u 2gE|4%=[sQT*KqB1XNu@o');
 define('SECURE_AUTH_SALT', 'X&)k&|J A%c!kqP0(!j0JE}tM90J^yF^/<=d$A-)_9^U,Cj{OuyGW,JQ<pi}!@D#');
-define('LOGGED_IN_SALT',   'g=uLtf*`6SN&|;^hHe+SUX6byEP#aCK#|Egijf=kTCUU[w!EZb@reF~:P8.WQMJ<');
-define('NONCE_SALT',       '=cElsS%Pau9+}1yaVJ9.XxiTL<,9JP0gxiDCq_^ 4,g<b2Sg[e)14soyQXxJ3E[Q');
+define('LOGGED_IN_SALT', 'g=uLtf*`6SN&|;^hHe+SUX6byEP#aCK#|Egijf=kTCUU[w!EZb@reF~:P8.WQMJ<');
+define('NONCE_SALT', '=cElsS%Pau9+}1yaVJ9.XxiTL<,9JP0gxiDCq_^ 4,g<b2Sg[e)14soyQXxJ3E[Q');
 /**#@-*/
 
 /**
@@ -87,8 +87,9 @@ define('WP_DEBUG', false);
 /* C’est tout, ne touchez pas à ce qui suit ! */
 
 /** Chemin absolu vers le dossier de WordPress. */
-if ( !defined('ABSPATH') )
-	define('ABSPATH', dirname(__FILE__) . '/');
+if (!defined('ABSPATH')) {
+    define('ABSPATH', dirname(__FILE__) . '/');
+}
 
 /** Réglage des variables de WordPress et de ses fichiers inclus. */
 require_once(ABSPATH . 'wp-settings.php');
