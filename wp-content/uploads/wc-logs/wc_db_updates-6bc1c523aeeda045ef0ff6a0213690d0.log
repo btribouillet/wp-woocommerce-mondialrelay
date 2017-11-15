@@ -14,3 +14,35 @@
 2017-05-23T17:31:12+00:00 INFO Running wc_update_300_db_version callback
 2017-05-23T17:31:12+00:00 INFO Finished wc_update_300_db_version callback
 2017-05-23T17:31:12+00:00 INFO Data update complete
+2017-07-05T17:19:43+00:00 INFO Queuing 3.1.0 - wc_update_310_downloadable_products
+2017-07-05T17:19:43+00:00 INFO Queuing 3.1.0 - wc_update_310_old_comments
+2017-07-05T17:19:43+00:00 INFO Queuing 3.1.0 - wc_update_310_db_version
+2017-07-05T17:19:44+00:00 INFO Running wc_update_310_downloadable_products callback
+2017-07-05T17:19:44+00:00 INFO Finished wc_update_310_downloadable_products callback
+2017-07-05T17:19:44+00:00 INFO Running wc_update_310_old_comments callback
+2017-07-05T17:19:44+00:00 INFO Finished wc_update_310_old_comments callback
+2017-07-05T17:19:44+00:00 INFO Running wc_update_310_db_version callback
+2017-07-05T17:19:44+00:00 INFO Finished wc_update_310_db_version callback
+2017-07-05T17:19:44+00:00 INFO Data update complete
+2017-11-15T02:14:29+00:00 INFO Queuing 3.1.0 - wc_update_310_downloadable_products
+2017-11-15T02:14:29+00:00 INFO Queuing 3.1.0 - wc_update_310_old_comments
+2017-11-15T02:14:29+00:00 INFO Queuing 3.1.0 - wc_update_310_db_version
+2017-11-15T02:14:29+00:00 INFO Queuing 3.1.2 - wc_update_312_shop_manager_capabilities
+2017-11-15T02:14:29+00:00 INFO Queuing 3.1.2 - wc_update_312_db_version
+2017-11-15T02:14:29+00:00 INFO Queuing 3.2.0 - wc_update_320_mexican_states
+2017-11-15T02:14:29+00:00 INFO Queuing 3.2.0 - wc_update_320_db_version
+2017-11-15T02:14:30+00:00 INFO Running wc_update_310_downloadable_products callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_310_downloadable_products callback
+2017-11-15T02:14:30+00:00 INFO Running wc_update_310_old_comments callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_310_old_comments callback
+2017-11-15T02:14:30+00:00 INFO Running wc_update_310_db_version callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_310_db_version callback
+2017-11-15T02:14:30+00:00 INFO Running wc_update_312_shop_manager_capabilities callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_312_shop_manager_capabilities callback
+2017-11-15T02:14:30+00:00 INFO Running wc_update_312_db_version callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_312_db_version callback
+2017-11-15T02:14:30+00:00 INFO Running wc_update_320_mexican_states callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_320_mexican_states callback
+2017-11-15T02:14:30+00:00 INFO Running wc_update_320_db_version callback
+2017-11-15T02:14:30+00:00 INFO Finished wc_update_320_db_version callback
+2017-11-15T02:14:30+00:00 INFO Data update complete
