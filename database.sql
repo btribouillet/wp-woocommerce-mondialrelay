@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.5.5-10.2.6-MariaDB)
 # Database: woocommerce-mondialrelay-test
-# Generation Time: 2018-01-15 17:26:27 +0000
+# Generation Time: 2018-02-15 15:57:31 +0000
 # ************************************************************
 
 
@@ -226,7 +226,7 @@ VALUES
 	(102,'widget_calendar','a:1:{s:12:\"_multiwidget\";i:1;}','yes'),
 	(103,'widget_tag_cloud','a:1:{s:12:\"_multiwidget\";i:1;}','yes'),
 	(104,'widget_nav_menu','a:1:{s:12:\"_multiwidget\";i:1;}','yes'),
-	(105,'cron','a:9:{i:1516040755;a:1:{s:32:\"woocommerce_cancel_unpaid_orders\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:2:{s:8:\"schedule\";b:0;s:4:\"args\";a:0:{}}}}i:1516056395;a:4:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1516056677;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1516057200;a:1:{s:27:\"woocommerce_scheduled_sales\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1516080355;a:1:{s:28:\"woocommerce_cleanup_sessions\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1516117348;a:1:{s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1516123555;a:1:{s:30:\"woocommerce_tracker_send_event\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1517875200;a:1:{s:25:\"woocommerce_geoip_updater\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:7:\"monthly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:2635200;}}}s:7:\"version\";i:2;}','yes'),
+	(105,'cron','a:9:{i:1518713601;a:1:{s:32:\"woocommerce_cancel_unpaid_orders\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:2:{s:8:\"schedule\";b:0;s:4:\"args\";a:0:{}}}}i:1518734795;a:4:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1518735077;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1518735600;a:1:{s:27:\"woocommerce_scheduled_sales\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1518753201;a:1:{s:28:\"woocommerce_cleanup_sessions\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1518795748;a:1:{s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1518796401;a:1:{s:30:\"woocommerce_tracker_send_event\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1520294400;a:1:{s:25:\"woocommerce_geoip_updater\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:7:\"monthly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:2635200;}}}s:7:\"version\";i:2;}','yes'),
 	(122,'can_compress_scripts','0','no'),
 	(139,'current_theme','Storefront','yes'),
 	(140,'theme_mods_storefront','a:5:{i:0;b:0;s:17:\"storefront_styles\";s:5060:\"\n			.main-navigation ul li a,\n			.site-title a,\n			ul.menu li a,\n			.site-branding h1 a,\n			.site-footer .storefront-handheld-footer-bar a:not(.button),\n			button.menu-toggle,\n			button.menu-toggle:hover {\n				color: #333333;\n			}\n\n			button.menu-toggle,\n			button.menu-toggle:hover {\n				border-color: #333333;\n			}\n\n			.main-navigation ul li a:hover,\n			.main-navigation ul li:hover > a,\n			.site-title a:hover,\n			a.cart-contents:hover,\n			.site-header-cart .widget_shopping_cart a:hover,\n			.site-header-cart:hover > li > a,\n			.site-header ul.menu li.current-menu-item > a {\n				color: #838383;\n			}\n\n			table th {\n				background-color: #f8f8f8;\n			}\n\n			table tbody td {\n				background-color: #fdfdfd;\n			}\n\n			table tbody tr:nth-child(2n) td,\n			fieldset,\n			fieldset legend {\n				background-color: #fbfbfb;\n			}\n\n			.site-header,\n			.secondary-navigation ul ul,\n			.main-navigation ul.menu > li.menu-item-has-children:after,\n			.secondary-navigation ul.menu ul,\n			.storefront-handheld-footer-bar,\n			.storefront-handheld-footer-bar ul li > a,\n			.storefront-handheld-footer-bar ul li.search .site-search,\n			button.menu-toggle,\n			button.menu-toggle:hover {\n				background-color: #ffffff;\n			}\n\n			p.site-description,\n			.site-header,\n			.storefront-handheld-footer-bar {\n				color: #6d6d6d;\n			}\n\n			.storefront-handheld-footer-bar ul li.cart .count,\n			button.menu-toggle:after,\n			button.menu-toggle:before,\n			button.menu-toggle span:before {\n				background-color: #333333;\n			}\n\n			.storefront-handheld-footer-bar ul li.cart .count {\n				color: #ffffff;\n			}\n\n			.storefront-handheld-footer-bar ul li.cart .count {\n				border-color: #ffffff;\n			}\n\n			h1, h2, h3, h4, h5, h6 {\n				color: #333333;\n			}\n\n			.widget h1 {\n				border-bottom-color: #333333;\n			}\n\n			body,\n			.secondary-navigation a,\n			.onsale,\n			.pagination .page-numbers li .page-numbers:not(.current), .woocommerce-pagination .page-numbers li .page-numbers:not(.current) {\n				color: #6d6d6d;\n			}\n\n			.widget-area .widget a,\n			.hentry .entry-header .posted-on a,\n			.hentry .entry-header .byline a {\n				color: #9f9f9f;\n			}\n\n			a  {\n				color: #96588a;\n			}\n\n			a:focus,\n			.button:focus,\n			.button.alt:focus,\n			.button.added_to_cart:focus,\n			.button.wc-forward:focus,\n			button:focus,\n			input[type=\"button\"]:focus,\n			input[type=\"reset\"]:focus,\n			input[type=\"submit\"]:focus {\n				outline-color: #96588a;\n			}\n\n			button, input[type=\"button\"], input[type=\"reset\"], input[type=\"submit\"], .button, .added_to_cart, .widget a.button, .site-header-cart .widget_shopping_cart a.button {\n				background-color: #eeeeee;\n				border-color: #eeeeee;\n				color: #333333;\n			}\n\n			button:hover, input[type=\"button\"]:hover, input[type=\"reset\"]:hover, input[type=\"submit\"]:hover, .button:hover, .added_to_cart:hover, .widget a.button:hover, .site-header-cart .widget_shopping_cart a.button:hover {\n				background-color: #d5d5d5;\n				border-color: #d5d5d5;\n				color: #333333;\n			}\n\n			button.alt, input[type=\"button\"].alt, input[type=\"reset\"].alt, input[type=\"submit\"].alt, .button.alt, .added_to_cart.alt, .widget-area .widget a.button.alt, .added_to_cart, .widget a.button.checkout {\n				background-color: #333333;\n				border-color: #333333;\n				color: #ffffff;\n			}\n\n			button.alt:hover, input[type=\"button\"].alt:hover, input[type=\"reset\"].alt:hover, input[type=\"submit\"].alt:hover, .button.alt:hover, .added_to_cart.alt:hover, .widget-area .widget a.button.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {\n				background-color: #1a1a1a;\n				border-color: #1a1a1a;\n				color: #ffffff;\n			}\n\n			.pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers.current {\n				background-color: #e6e6e6;\n				color: #6d6d6d;\n			}\n\n			#comments .comment-list .comment-content .comment-text {\n				background-color: #f8f8f8;\n			}\n\n			.site-footer {\n				background-color: #f0f0f0;\n				color: #6d6d6d;\n			}\n\n			.site-footer a:not(.button) {\n				color: #333333;\n			}\n\n			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {\n				color: #333333;\n			}\n\n			#order_review {\n				background-color: #ffffff;\n			}\n\n			#payment .payment_methods > li .payment_box,\n			#payment .place-order {\n				background-color: #fafafa;\n			}\n\n			#payment .payment_methods > li:not(.woocommerce-notice) {\n				background-color: #f5f5f5;\n			}\n\n			#payment .payment_methods > li:not(.woocommerce-notice):hover {\n				background-color: #f0f0f0;\n			}\n\n			@media screen and ( min-width: 768px ) {\n				.secondary-navigation ul.menu a:hover {\n					color: #868686;\n				}\n\n				.secondary-navigation ul.menu a {\n					color: #6d6d6d;\n				}\n\n				.site-header-cart .widget_shopping_cart,\n				.main-navigation ul.menu ul.sub-menu,\n				.main-navigation ul.nav-menu ul.children {\n					background-color: #f0f0f0;\n				}\n\n				.site-header-cart .widget_shopping_cart .buttons,\n				.site-header-cart .widget_shopping_cart .total {\n					background-color: #f5f5f5;\n				}\n\n				.site-header {\n					border-bottom-color: #f0f0f0;\n				}\n			}\";s:29:\"storefront_woocommerce_styles\";s:2283:\"\n			a.cart-contents,\n			.site-header-cart .widget_shopping_cart a {\n				color: #333333;\n			}\n\n			table.cart td.product-remove,\n			table.cart td.actions {\n				border-top-color: #ffffff;\n			}\n\n			.woocommerce-tabs ul.tabs li.active a,\n			ul.products li.product .price,\n			.onsale,\n			.widget_search form:before,\n			.widget_product_search form:before {\n				color: #6d6d6d;\n			}\n\n			.woocommerce-breadcrumb a,\n			a.woocommerce-review-link,\n			.product_meta a {\n				color: #9f9f9f;\n			}\n\n			.onsale {\n				border-color: #6d6d6d;\n			}\n\n			.star-rating span:before,\n			.quantity .plus, .quantity .minus,\n			p.stars a:hover:after,\n			p.stars a:after,\n			.star-rating span:before,\n			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {\n				color: #96588a;\n			}\n\n			.widget_price_filter .ui-slider .ui-slider-range,\n			.widget_price_filter .ui-slider .ui-slider-handle {\n				background-color: #96588a;\n			}\n\n			.order_details {\n				background-color: #f8f8f8;\n			}\n\n			.order_details > li {\n				border-bottom: 1px dotted #e3e3e3;\n			}\n\n			.order_details:before,\n			.order_details:after {\n				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)\n			}\n\n			p.stars a:before,\n			p.stars a:hover~a:before,\n			p.stars.selected a.active~a:before {\n				color: #6d6d6d;\n			}\n\n			p.stars.selected a.active:before,\n			p.stars:hover a:before,\n			p.stars.selected a:not(.active):before,\n			p.stars.selected a.active:before {\n				color: #96588a;\n			}\n\n			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {\n				background-color: #eeeeee;\n				color: #333333;\n			}\n\n			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {\n				background-color: #d5d5d5;\n				border-color: #d5d5d5;\n				color: #333333;\n			}\n\n			.button.loading {\n				color: #eeeeee;\n			}\n\n			.button.loading:hover {\n				background-color: #eeeeee;\n			}\n\n			.button.loading:after {\n				color: #333333;\n			}\n\n			@media screen and ( min-width: 768px ) {\n				.site-header-cart .widget_shopping_cart,\n				.site-header .product_list_widget li .quantity {\n					color: #6d6d6d;\n				}\n			}\";s:18:\"custom_css_post_id\";i:18;s:39:\"storefront_woocommerce_extension_styles\";s:0:\"\";}','yes'),
@@ -413,30 +413,40 @@ VALUES
 	(660,'woocommerce_store_city','','yes'),
 	(661,'woocommerce_store_postcode','','yes'),
 	(697,'widget_media_gallery','a:1:{s:12:\"_multiwidget\";i:1;}','yes'),
-	(746,'_transient_timeout_external_ip_address_127.0.0.1','1516641851','no'),
-	(747,'_transient_external_ip_address_127.0.0.1','92.154.35.137','no'),
-	(752,'_site_transient_timeout_theme_roots','1516038853','no'),
-	(753,'_site_transient_theme_roots','a:1:{s:10:\"storefront\";s:7:\"/themes\";}','no'),
-	(759,'_site_transient_timeout_browser_47ede96189a3ddb933ff59ff0e169d97','1516641863','no'),
-	(760,'_site_transient_browser_47ede96189a3ddb933ff59ff0e169d97','a:10:{s:4:\"name\";s:7:\"Firefox\";s:7:\"version\";s:4:\"57.0\";s:8:\"platform\";s:9:\"Macintosh\";s:10:\"update_url\";s:24:\"https://www.firefox.com/\";s:7:\"img_src\";s:44:\"http://s.w.org/images/browsers/firefox.png?1\";s:11:\"img_src_ssl\";s:45:\"https://s.w.org/images/browsers/firefox.png?1\";s:15:\"current_version\";s:2:\"56\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;s:6:\"mobile\";b:0;}','no'),
-	(761,'_transient_timeout_wc_report_sales_by_date','1516123463','no'),
-	(762,'_transient_wc_report_sales_by_date','a:8:{s:32:\"6befd735a29eb500a2d725134b82a539\";a:0:{}s:32:\"f1441cb9f202b0ad89aeb1526594e0f5\";a:0:{}s:32:\"0ec7a315b4ab75d44f8d6e9ecee9a772\";a:0:{}s:32:\"ea5d68940328c54f7bbd975060fd7bca\";N;s:32:\"b7a761c7520700d3e42ae18ed6882203\";a:0:{}s:32:\"08ecfde488c3db4fba9318934051c6d9\";a:0:{}s:32:\"e2fcd5d924984f6a89eb3724c45526a3\";a:0:{}s:32:\"a53ee2336ce6b123df3a6cffb87131a4\";a:0:{}}','no'),
-	(763,'_transient_timeout_wc_admin_report','1516123463','no'),
-	(764,'_transient_wc_admin_report','a:1:{s:32:\"e5aaa6efd66cfa3bc0e0647f80cec996\";a:0:{}}','no'),
-	(765,'_transient_timeout_wc_low_stock_count','1518629063','no'),
-	(766,'_transient_wc_low_stock_count','0','no'),
-	(767,'_transient_timeout_wc_outofstock_count','1518629063','no'),
-	(768,'_transient_wc_outofstock_count','0','no'),
-	(769,'_transient_timeout_wc_shipping_method_count_1_1481756499','1518629064','no'),
-	(770,'_transient_wc_shipping_method_count_1_1481756499','4','no'),
-	(771,'_site_transient_timeout_community-events-1aecf33ab8525ff212ebdffbb438372e','1516080265','no'),
-	(772,'_site_transient_community-events-1aecf33ab8525ff212ebdffbb438372e','a:2:{s:8:\"location\";a:1:{s:2:\"ip\";s:9:\"127.0.0.0\";}s:6:\"events\";a:1:{i:0;a:7:{s:4:\"type\";s:8:\"wordcamp\";s:5:\"title\";s:14:\"WordCamp Paris\";s:3:\"url\";s:31:\"https://2018.paris.wordcamp.org\";s:6:\"meetup\";N;s:10:\"meetup_url\";N;s:4:\"date\";s:19:\"2018-03-09 00:00:00\";s:8:\"location\";a:4:{s:8:\"location\";s:5:\"Paris\";s:7:\"country\";s:2:\"FR\";s:8:\"latitude\";d:48.8240692;s:9:\"longitude\";d:2.3722989;}}}}','no'),
-	(773,'_transient_timeout__woocommerce_helper_subscriptions','1516037966','no'),
-	(774,'_transient__woocommerce_helper_subscriptions','a:0:{}','no'),
-	(775,'_transient_timeout__woocommerce_helper_updates','1516080266','no'),
-	(776,'_transient__woocommerce_helper_updates','a:4:{s:4:\"hash\";s:32:\"d751713988987e9331980363e24189ce\";s:7:\"updated\";i:1516037066;s:8:\"products\";a:0:{}s:6:\"errors\";a:1:{i:0;s:10:\"http-error\";}}','no'),
-	(783,'woocommerce_version','3.2.6','yes'),
-	(784,'woocommerce_db_version','3.2.6','yes');
+	(786,'_transient_timeout_external_ip_address_127.0.0.1','1519314737','no'),
+	(787,'_transient_external_ip_address_127.0.0.1','2a01:cb19:8111:8700:35bd:e8fa:774f:c475','no'),
+	(793,'_site_transient_timeout_theme_roots','1518711739','no'),
+	(794,'_site_transient_theme_roots','a:1:{s:10:\"storefront\";s:7:\"/themes\";}','no'),
+	(801,'_site_transient_timeout_browser_008334fea9acf7923e529ac8875baa23','1519314759','no'),
+	(802,'_site_transient_browser_008334fea9acf7923e529ac8875baa23','a:10:{s:4:\"name\";s:7:\"Firefox\";s:7:\"version\";s:4:\"58.0\";s:8:\"platform\";s:9:\"Macintosh\";s:10:\"update_url\";s:24:\"https://www.firefox.com/\";s:7:\"img_src\";s:44:\"http://s.w.org/images/browsers/firefox.png?1\";s:11:\"img_src_ssl\";s:45:\"https://s.w.org/images/browsers/firefox.png?1\";s:15:\"current_version\";s:2:\"56\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;s:6:\"mobile\";b:0;}','no'),
+	(803,'_transient_timeout_wc_report_sales_by_date','1518796539','no'),
+	(804,'_transient_wc_report_sales_by_date','a:24:{s:32:\"1c09fa65f9323ce5a13ae146889aed3f\";a:0:{}s:32:\"801726b9125f165cd7888d672ddfb5fe\";a:0:{}s:32:\"2682a9f777ac9c091bbd8ab9e156e13d\";a:0:{}s:32:\"7124f9d501afe8e8b774eb8f56db8dfa\";N;s:32:\"a3542baf04b2ecad18490b102b6a01e5\";a:0:{}s:32:\"54cc44fbb2abdc0710309a43bf4fe73a\";a:0:{}s:32:\"0153880068d4fff205253ea9ec17beb9\";a:0:{}s:32:\"5fa89a9f0e4713e8e82d6434ba0bd16c\";a:0:{}s:32:\"b5376975c56469a41b19bcf4ae232b15\";a:0:{}s:32:\"79f3173eff74142a4d0410f446ae9871\";a:0:{}s:32:\"d491e1aa1ffa3f3b3331cbf009da3326\";a:0:{}s:32:\"adb0d1894517f55c011a9c70b94e2041\";N;s:32:\"ec6dc8aa2107e872ba5b0b18487715a1\";a:0:{}s:32:\"4160cbec2a70793896db32e988e65372\";a:0:{}s:32:\"727ea0c88a831afb711e032d3ff281f8\";a:0:{}s:32:\"7ae67ce3dd34a9398700ddcb7e5ebc85\";a:0:{}s:32:\"67f8728c509b4431a3b6055dc6ce7415\";a:0:{}s:32:\"1f4dfbf36568bd688b7b0dae00b645ea\";a:0:{}s:32:\"2bd35ba95e6cd970a350e7fdb4857c24\";a:0:{}s:32:\"1104a5b2cada5a00d1ee01df412bad59\";N;s:32:\"c4cc69ed495629e107a251504279799b\";a:0:{}s:32:\"f3a8ec3f92886e7f34b4074d2a07c806\";a:0:{}s:32:\"ccd258cb60123a899e298d60273ab178\";a:0:{}s:32:\"977238f603c7e24d0074ce8ea05f65b0\";a:0:{}}','no'),
+	(805,'_transient_timeout_wc_admin_report','1518796359','no'),
+	(806,'_transient_wc_admin_report','a:1:{s:32:\"007d6a1f3bd9aee5246f5f5afe159b27\";a:0:{}}','no'),
+	(807,'_transient_timeout_wc_low_stock_count','1521301959','no'),
+	(808,'_transient_wc_low_stock_count','0','no'),
+	(809,'_transient_timeout_wc_outofstock_count','1521301959','no'),
+	(810,'_transient_wc_outofstock_count','0','no'),
+	(811,'_transient_timeout_wc_shipping_method_count_1_1481756499','1521301960','no'),
+	(812,'_transient_wc_shipping_method_count_1_1481756499','4','no'),
+	(813,'_site_transient_timeout_community-events-1aecf33ab8525ff212ebdffbb438372e','1518753161','no'),
+	(814,'_site_transient_community-events-1aecf33ab8525ff212ebdffbb438372e','a:2:{s:8:\"location\";a:1:{s:2:\"ip\";s:9:\"127.0.0.0\";}s:6:\"events\";a:0:{}}','no'),
+	(815,'_transient_timeout__woocommerce_helper_subscriptions','1518710862','no'),
+	(816,'_transient__woocommerce_helper_subscriptions','a:0:{}','no'),
+	(817,'_transient_timeout__woocommerce_helper_updates','1518753162','no'),
+	(818,'_transient__woocommerce_helper_updates','a:4:{s:4:\"hash\";s:32:\"d751713988987e9331980363e24189ce\";s:7:\"updated\";i:1518709962;s:8:\"products\";a:0:{}s:6:\"errors\";a:1:{i:0;s:10:\"http-error\";}}','no'),
+	(823,'woocommerce_permalinks','a:5:{s:12:\"product_base\";s:7:\"produit\";s:13:\"category_base\";s:17:\"categorie-produit\";s:8:\"tag_base\";s:17:\"etiquette-produit\";s:14:\"attribute_base\";s:0:\"\";s:22:\"use_verbose_page_rules\";b:0;}','yes'),
+	(824,'current_theme_supports_woocommerce','1','yes'),
+	(828,'product_cat_children','a:0:{}','yes'),
+	(829,'default_product_cat','15','yes'),
+	(830,'woocommerce_version','3.3.1','yes'),
+	(835,'woocommerce_thumbnail_image_width','300','yes'),
+	(836,'woocommerce_thumbnail_cropping','1:1','yes'),
+	(837,'woocommerce_single_image_width','600','yes'),
+	(839,'woocommerce_db_version','3.3.1','yes'),
+	(841,'_site_transient_update_core','O:8:\"stdClass\":4:{s:7:\"updates\";a:1:{i:0;O:8:\"stdClass\":10:{s:8:\"response\";s:6:\"latest\";s:8:\"download\";s:65:\"https://downloads.wordpress.org/release/fr_FR/wordpress-4.9.4.zip\";s:6:\"locale\";s:5:\"fr_FR\";s:8:\"packages\";O:8:\"stdClass\":5:{s:4:\"full\";s:65:\"https://downloads.wordpress.org/release/fr_FR/wordpress-4.9.4.zip\";s:10:\"no_content\";b:0;s:11:\"new_bundled\";b:0;s:7:\"partial\";b:0;s:8:\"rollback\";b:0;}s:7:\"current\";s:5:\"4.9.4\";s:7:\"version\";s:5:\"4.9.4\";s:11:\"php_version\";s:5:\"5.2.4\";s:13:\"mysql_version\";s:3:\"5.0\";s:11:\"new_bundled\";s:3:\"4.7\";s:15:\"partial_version\";s:0:\"\";}}s:12:\"last_checked\";i:1518710130;s:15:\"version_checked\";s:5:\"4.9.4\";s:12:\"translations\";a:0:{}}','no'),
+	(842,'_site_transient_update_plugins','O:8:\"stdClass\":4:{s:12:\"last_checked\";i:1518710130;s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:1:{s:27:\"woocommerce/woocommerce.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:25:\"w.org/plugins/woocommerce\";s:4:\"slug\";s:11:\"woocommerce\";s:6:\"plugin\";s:27:\"woocommerce/woocommerce.php\";s:11:\"new_version\";s:5:\"3.3.1\";s:3:\"url\";s:42:\"https://wordpress.org/plugins/woocommerce/\";s:7:\"package\";s:60:\"https://downloads.wordpress.org/plugin/woocommerce.3.3.1.zip\";s:5:\"icons\";a:3:{s:2:\"1x\";s:64:\"https://ps.w.org/woocommerce/assets/icon-128x128.png?rev=1440831\";s:2:\"2x\";s:64:\"https://ps.w.org/woocommerce/assets/icon-256x256.png?rev=1440831\";s:7:\"default\";s:64:\"https://ps.w.org/woocommerce/assets/icon-256x256.png?rev=1440831\";}s:7:\"banners\";a:3:{s:2:\"2x\";s:67:\"https://ps.w.org/woocommerce/assets/banner-1544x500.png?rev=1629184\";s:2:\"1x\";s:66:\"https://ps.w.org/woocommerce/assets/banner-772x250.png?rev=1629184\";s:7:\"default\";s:67:\"https://ps.w.org/woocommerce/assets/banner-1544x500.png?rev=1629184\";}s:11:\"banners_rtl\";a:0:{}}}}','no'),
+	(843,'_site_transient_update_themes','O:8:\"stdClass\":4:{s:12:\"last_checked\";i:1518710132;s:7:\"checked\";a:1:{s:10:\"storefront\";s:5:\"2.2.8\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}}','no');
 
 /*!40000 ALTER TABLE `wpwc_options` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -555,7 +565,7 @@ VALUES
 	(18,1,'2017-11-17 16:46:00','2017-11-17 15:46:00','.site-header .site-branding {\n    width: auto;\n}','storefront','','publish','closed','closed','','storefront','','','2017-11-17 16:46:00','2017-11-17 15:46:00','',0,'http://test.mondialrelay-woocommerce.test/?p=18',0,'custom_css','',0),
 	(19,1,'2017-11-17 16:46:00','2017-11-17 15:46:00','.site-header .site-branding {\n    width: auto;\n}','storefront','','inherit','closed','closed','','18-revision-v1','','','2017-11-17 16:46:00','2017-11-17 15:46:00','',18,'http://test.mondialrelay-woocommerce.test/?p=19',0,'revision','',0),
 	(20,1,'2017-11-17 16:47:32','2017-11-17 15:47:32','Un site Wordpress incluant WooCommerce directement configuré afin de tester le plugin Mondial Relay dans un environnement standard.','Wordpress de test pour le plugin Mondial Relay','','inherit','closed','closed','','2-revision-v1','','','2017-11-17 16:47:32','2017-11-17 15:47:32','',2,'http://test.mondialrelay-woocommerce.test/?p=20',0,'revision','',0),
-	(22,1,'2018-01-15 18:24:23','0000-00-00 00:00:00','','Brouillon auto','','auto-draft','open','open','','','','','2018-01-15 18:24:23','0000-00-00 00:00:00','',0,'http://test.mondialrelay-woocommerce.test/?p=22',0,'post','',0);
+	(23,1,'2018-02-15 16:52:39','0000-00-00 00:00:00','','Brouillon auto','','auto-draft','open','open','','','','','2018-02-15 16:52:39','0000-00-00 00:00:00','',0,'http://test.mondialrelay-woocommerce.test/?p=23',0,'post','',0);
 
 /*!40000 ALTER TABLE `wpwc_posts` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -580,7 +590,8 @@ LOCK TABLES `wpwc_term_relationships` WRITE;
 INSERT INTO `wpwc_term_relationships` (`object_id`, `term_taxonomy_id`, `term_order`)
 VALUES
 	(1,1,0),
-	(10,2,0);
+	(10,2,0),
+	(10,15,0);
 
 /*!40000 ALTER TABLE `wpwc_term_relationships` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -621,7 +632,8 @@ VALUES
 	(11,11,'product_visibility','',0,0),
 	(12,12,'product_visibility','',0,0),
 	(13,13,'product_visibility','',0,0),
-	(14,14,'product_visibility','',0,0);
+	(14,14,'product_visibility','',0,0),
+	(15,15,'product_cat','',0,1);
 
 /*!40000 ALTER TABLE `wpwc_term_taxonomy` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -642,6 +654,15 @@ CREATE TABLE `wpwc_termmeta` (
   KEY `meta_key` (`meta_key`(191))
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+LOCK TABLES `wpwc_termmeta` WRITE;
+/*!40000 ALTER TABLE `wpwc_termmeta` DISABLE KEYS */;
+
+INSERT INTO `wpwc_termmeta` (`meta_id`, `term_id`, `meta_key`, `meta_value`)
+VALUES
+	(1,15,'product_count_product_cat','1');
+
+/*!40000 ALTER TABLE `wpwc_termmeta` ENABLE KEYS */;
+UNLOCK TABLES;
 
 
 # Dump of table wpwc_terms
@@ -677,7 +698,8 @@ VALUES
 	(11,'rated-2','rated-2',0),
 	(12,'rated-3','rated-3',0),
 	(13,'rated-4','rated-4',0),
-	(14,'rated-5','rated-5',0);
+	(14,'rated-5','rated-5',0),
+	(15,'Uncategorized','uncategorized',0);
 
 /*!40000 ALTER TABLE `wpwc_terms` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -717,15 +739,16 @@ VALUES
 	(12,1,'wpwc_user_level','10'),
 	(13,1,'dismissed_wp_pointers',''),
 	(14,1,'show_welcome_panel','0'),
-	(15,1,'session_tokens','a:1:{s:64:\"e366dc1dee0b637204d9df2411505530334a795d99964df3d9a08fea67f36190\";a:4:{s:10:\"expiration\";i:1516209862;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:82:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:57.0) Gecko/20100101 Firefox/57.0\";s:5:\"login\";i:1516037062;}}'),
-	(16,1,'wpwc_dashboard_quick_press_last_post_id','22'),
+	(15,1,'session_tokens','a:1:{s:64:\"fe919403765b861ed5ff46a03905d3dc1ee53587d02d652c1ecec3f10777759b\";a:4:{s:10:\"expiration\";i:1518882758;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:82:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0\";s:5:\"login\";i:1518709958;}}'),
+	(16,1,'wpwc_dashboard_quick_press_last_post_id','23'),
 	(17,1,'manageedit-shop_ordercolumnshidden','a:1:{i:0;s:15:\"billing_address\";}'),
 	(18,1,'_woocommerce_persistent_cart','a:1:{s:4:\"cart\";a:1:{s:32:\"d3d9446802a44259755d38e6d163e820\";a:9:{s:10:\"product_id\";i:10;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:10:\"line_total\";i:10;s:8:\"line_tax\";i:0;s:13:\"line_subtotal\";i:10;s:17:\"line_subtotal_tax\";i:0;s:13:\"line_tax_data\";a:2:{s:5:\"total\";a:0:{}s:8:\"subtotal\";a:0:{}}}}}'),
 	(19,1,'community-events-location','a:1:{s:2:\"ip\";s:9:\"127.0.0.0\";}'),
-	(20,1,'_woocommerce_persistent_cart_1','a:1:{s:4:\"cart\";a:1:{s:32:\"d3d9446802a44259755d38e6d163e820\";a:9:{s:10:\"product_id\";i:10;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:10:\"line_total\";i:10;s:8:\"line_tax\";d:2;s:13:\"line_subtotal\";i:10;s:17:\"line_subtotal_tax\";d:2;s:13:\"line_tax_data\";a:2:{s:8:\"subtotal\";a:1:{i:1;d:2;}s:5:\"total\";a:1:{i:1;d:2;}}}}}'),
+	(20,1,'_woocommerce_persistent_cart_1','a:1:{s:4:\"cart\";a:1:{s:32:\"d3d9446802a44259755d38e6d163e820\";a:9:{s:10:\"product_id\";i:10;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:10:\"line_total\";d:10;s:8:\"line_tax\";d:2;s:13:\"line_subtotal\";d:10;s:17:\"line_subtotal_tax\";d:2;s:13:\"line_tax_data\";a:2:{s:8:\"subtotal\";a:1:{i:1;d:2;}s:5:\"total\";a:1:{i:1;d:2;}}}}}'),
 	(21,1,'closedpostboxes_dashboard','a:4:{i:0;s:18:\"dashboard_activity\";i:1;s:36:\"woocommerce_dashboard_recent_reviews\";i:2;s:21:\"dashboard_quick_press\";i:3;s:17:\"dashboard_primary\";}'),
 	(22,1,'metaboxhidden_dashboard','a:0:{}'),
-	(23,1,'meta-box-order_dashboard','a:4:{s:6:\"normal\";s:48:\"dashboard_right_now,woocommerce_dashboard_status\";s:4:\"side\";s:95:\"dashboard_quick_press,dashboard_primary,dashboard_activity,woocommerce_dashboard_recent_reviews\";s:7:\"column3\";s:0:\"\";s:7:\"column4\";s:0:\"\";}');
+	(23,1,'meta-box-order_dashboard','a:4:{s:6:\"normal\";s:48:\"dashboard_right_now,woocommerce_dashboard_status\";s:4:\"side\";s:95:\"dashboard_quick_press,dashboard_primary,dashboard_activity,woocommerce_dashboard_recent_reviews\";s:7:\"column3\";s:0:\"\";s:7:\"column4\";s:0:\"\";}'),
+	(24,1,'dismissed_update_notice','1');
 
 /*!40000 ALTER TABLE `wpwc_usermeta` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -762,6 +785,50 @@ VALUES
 
 /*!40000 ALTER TABLE `wpwc_users` ENABLE KEYS */;
 UNLOCK TABLES;
+
+
+# Dump of table wpwc_wc_download_log
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `wpwc_wc_download_log`;
+
+CREATE TABLE `wpwc_wc_download_log` (
+  `download_log_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `timestamp` datetime NOT NULL,
+  `permission_id` bigint(20) unsigned NOT NULL,
+  `user_id` bigint(20) unsigned DEFAULT NULL,
+  `user_ip_address` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT '',
+  PRIMARY KEY (`download_log_id`),
+  KEY `permission_id` (`permission_id`),
+  KEY `timestamp` (`timestamp`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+
+
+# Dump of table wpwc_wc_webhooks
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `wpwc_wc_webhooks`;
+
+CREATE TABLE `wpwc_wc_webhooks` (
+  `webhook_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `status` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `user_id` bigint(20) unsigned NOT NULL,
+  `delivery_url` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `secret` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `topic` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `date_created` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `date_created_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `date_modified` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `date_modified_gmt` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `api_version` smallint(4) NOT NULL,
+  `failure_count` smallint(10) NOT NULL DEFAULT 0,
+  `pending_delivery` tinyint(1) NOT NULL DEFAULT 0,
+  PRIMARY KEY (`webhook_id`),
+  KEY `user_id` (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
 
 
 # Dump of table wpwc_woocommerce_api_keys
@@ -811,7 +878,7 @@ DROP TABLE IF EXISTS `wpwc_woocommerce_downloadable_product_permissions`;
 
 CREATE TABLE `wpwc_woocommerce_downloadable_product_permissions` (
   `permission_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
-  `download_id` varchar(32) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `download_id` varchar(36) COLLATE utf8mb4_unicode_ci NOT NULL,
   `product_id` bigint(20) unsigned NOT NULL,
   `order_id` bigint(20) unsigned NOT NULL DEFAULT 0,
   `order_key` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -934,7 +1001,7 @@ LOCK TABLES `wpwc_woocommerce_sessions` WRITE;
 
 INSERT INTO `wpwc_woocommerce_sessions` (`session_id`, `session_key`, `session_value`, `session_expiry`)
 VALUES
-	(20,'1','a:11:{s:4:\"cart\";s:319:\"a:1:{s:32:\"d3d9446802a44259755d38e6d163e820\";a:9:{s:10:\"product_id\";i:10;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:10:\"line_total\";i:10;s:8:\"line_tax\";d:2;s:13:\"line_subtotal\";i:10;s:17:\"line_subtotal_tax\";d:2;s:13:\"line_tax_data\";a:2:{s:8:\"subtotal\";a:1:{i:1;d:2;}s:5:\"total\";a:1:{i:1;d:2;}}}}\";s:11:\"cart_totals\";s:433:\"a:15:{s:8:\"subtotal\";s:2:\"10\";s:12:\"subtotal_tax\";d:2;s:14:\"shipping_total\";s:1:\"3\";s:12:\"shipping_tax\";d:0.6;s:14:\"shipping_taxes\";a:1:{i:1;d:0.6000000000000001;}s:14:\"discount_total\";d:0;s:12:\"discount_tax\";s:1:\"0\";s:19:\"cart_contents_total\";s:2:\"10\";s:17:\"cart_contents_tax\";d:2;s:19:\"cart_contents_taxes\";a:1:{i:1;d:2;}s:9:\"fee_total\";s:1:\"0\";s:7:\"fee_tax\";d:0;s:9:\"fee_taxes\";a:0:{}s:5:\"total\";s:4:\"15.6\";s:9:\"total_tax\";d:2.6;}\";s:15:\"applied_coupons\";s:6:\"a:0:{}\";s:22:\"coupon_discount_totals\";s:6:\"a:0:{}\";s:26:\"coupon_discount_tax_totals\";s:6:\"a:0:{}\";s:21:\"removed_cart_contents\";s:6:\"a:0:{}\";s:22:\"shipping_for_package_0\";s:737:\"a:2:{s:12:\"package_hash\";s:40:\"wc_ship_840b09c16ae427f734a440e1b8cf8a7d\";s:5:\"rates\";a:2:{s:11:\"flat_rate:1\";O:16:\"WC_Shipping_Rate\":2:{s:7:\"\0*\0data\";a:6:{s:2:\"id\";s:11:\"flat_rate:1\";s:9:\"method_id\";s:9:\"flat_rate\";s:11:\"instance_id\";i:1;s:5:\"label\";s:20:\"Mondial Relay France\";s:4:\"cost\";s:4:\"3.00\";s:5:\"taxes\";a:1:{i:1;d:0.6000000000000001;}}s:12:\"\0*\0meta_data\";a:1:{s:8:\"Articles\";s:25:\"Produit de test &times; 1\";}}s:11:\"flat_rate:2\";O:16:\"WC_Shipping_Rate\":2:{s:7:\"\0*\0data\";a:6:{s:2:\"id\";s:11:\"flat_rate:2\";s:9:\"method_id\";s:9:\"flat_rate\";s:11:\"instance_id\";i:2;s:5:\"label\";s:22:\"Autre livraison France\";s:4:\"cost\";s:4:\"2.00\";s:5:\"taxes\";a:1:{i:1;d:0.4;}}s:12:\"\0*\0meta_data\";a:1:{s:8:\"Articles\";s:25:\"Produit de test &times; 1\";}}}}\";s:25:\"previous_shipping_methods\";s:62:\"a:1:{i:0;a:2:{i:0;s:11:\"flat_rate:1\";i:1;s:11:\"flat_rate:2\";}}\";s:23:\"chosen_shipping_methods\";s:29:\"a:1:{i:0;s:11:\"flat_rate:1\";}\";s:22:\"shipping_method_counts\";s:14:\"a:1:{i:0;i:2;}\";s:8:\"customer\";s:665:\"a:25:{s:2:\"id\";i:1;s:8:\"postcode\";s:0:\"\";s:4:\"city\";s:0:\"\";s:9:\"address_1\";s:0:\"\";s:7:\"address\";s:0:\"\";s:9:\"address_2\";s:0:\"\";s:5:\"state\";s:0:\"\";s:7:\"country\";s:2:\"FR\";s:17:\"shipping_postcode\";s:0:\"\";s:13:\"shipping_city\";s:0:\"\";s:18:\"shipping_address_1\";s:0:\"\";s:16:\"shipping_address\";s:0:\"\";s:18:\"shipping_address_2\";s:0:\"\";s:14:\"shipping_state\";s:0:\"\";s:16:\"shipping_country\";s:2:\"FR\";s:13:\"is_vat_exempt\";b:0;s:19:\"calculated_shipping\";b:0;s:10:\"first_name\";s:0:\"\";s:9:\"last_name\";s:0:\"\";s:7:\"company\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:5:\"email\";s:15:\"admin@admin.com\";s:19:\"shipping_first_name\";s:0:\"\";s:18:\"shipping_last_name\";s:0:\"\";s:16:\"shipping_company\";s:0:\"\";}\";}',1516209864);
+	(22,'1','a:11:{s:4:\"cart\";s:319:\"a:1:{s:32:\"d3d9446802a44259755d38e6d163e820\";a:9:{s:10:\"product_id\";i:10;s:12:\"variation_id\";i:0;s:9:\"variation\";a:0:{}s:8:\"quantity\";i:1;s:10:\"line_total\";d:10;s:8:\"line_tax\";d:2;s:13:\"line_subtotal\";d:10;s:17:\"line_subtotal_tax\";d:2;s:13:\"line_tax_data\";a:2:{s:8:\"subtotal\";a:1:{i:1;d:2;}s:5:\"total\";a:1:{i:1;d:2;}}}}\";s:11:\"cart_totals\";s:442:\"a:15:{s:8:\"subtotal\";s:5:\"10.00\";s:12:\"subtotal_tax\";d:2;s:14:\"shipping_total\";s:4:\"3.00\";s:12:\"shipping_tax\";d:0.6;s:14:\"shipping_taxes\";a:1:{i:1;d:0.6000000000000001;}s:14:\"discount_total\";d:0;s:12:\"discount_tax\";d:0;s:19:\"cart_contents_total\";s:5:\"10.00\";s:17:\"cart_contents_tax\";d:2;s:19:\"cart_contents_taxes\";a:1:{i:1;d:2;}s:9:\"fee_total\";s:4:\"0.00\";s:7:\"fee_tax\";d:0;s:9:\"fee_taxes\";a:0:{}s:5:\"total\";s:5:\"15.60\";s:9:\"total_tax\";d:2.6;}\";s:15:\"applied_coupons\";s:6:\"a:0:{}\";s:22:\"coupon_discount_totals\";s:6:\"a:0:{}\";s:26:\"coupon_discount_tax_totals\";s:6:\"a:0:{}\";s:21:\"removed_cart_contents\";s:6:\"a:0:{}\";s:22:\"shipping_for_package_0\";s:737:\"a:2:{s:12:\"package_hash\";s:40:\"wc_ship_1b762861256953117fba45c48cd0d9f4\";s:5:\"rates\";a:2:{s:11:\"flat_rate:1\";O:16:\"WC_Shipping_Rate\":2:{s:7:\"\0*\0data\";a:6:{s:2:\"id\";s:11:\"flat_rate:1\";s:9:\"method_id\";s:9:\"flat_rate\";s:11:\"instance_id\";i:1;s:5:\"label\";s:20:\"Mondial Relay France\";s:4:\"cost\";s:4:\"3.00\";s:5:\"taxes\";a:1:{i:1;d:0.6000000000000001;}}s:12:\"\0*\0meta_data\";a:1:{s:8:\"Articles\";s:25:\"Produit de test &times; 1\";}}s:11:\"flat_rate:2\";O:16:\"WC_Shipping_Rate\":2:{s:7:\"\0*\0data\";a:6:{s:2:\"id\";s:11:\"flat_rate:2\";s:9:\"method_id\";s:9:\"flat_rate\";s:11:\"instance_id\";i:2;s:5:\"label\";s:22:\"Autre livraison France\";s:4:\"cost\";s:4:\"2.00\";s:5:\"taxes\";a:1:{i:1;d:0.4;}}s:12:\"\0*\0meta_data\";a:1:{s:8:\"Articles\";s:25:\"Produit de test &times; 1\";}}}}\";s:25:\"previous_shipping_methods\";s:62:\"a:1:{i:0;a:2:{i:0;s:11:\"flat_rate:1\";i:1;s:11:\"flat_rate:2\";}}\";s:23:\"chosen_shipping_methods\";s:29:\"a:1:{i:0;s:11:\"flat_rate:1\";}\";s:22:\"shipping_method_counts\";s:14:\"a:1:{i:0;i:2;}\";s:8:\"customer\";s:703:\"a:26:{s:2:\"id\";s:1:\"1\";s:13:\"date_modified\";s:0:\"\";s:8:\"postcode\";s:0:\"\";s:4:\"city\";s:0:\"\";s:9:\"address_1\";s:0:\"\";s:7:\"address\";s:0:\"\";s:9:\"address_2\";s:0:\"\";s:5:\"state\";s:0:\"\";s:7:\"country\";s:2:\"FR\";s:17:\"shipping_postcode\";s:0:\"\";s:13:\"shipping_city\";s:0:\"\";s:18:\"shipping_address_1\";s:0:\"\";s:16:\"shipping_address\";s:0:\"\";s:18:\"shipping_address_2\";s:0:\"\";s:14:\"shipping_state\";s:0:\"\";s:16:\"shipping_country\";s:2:\"FR\";s:13:\"is_vat_exempt\";s:0:\"\";s:19:\"calculated_shipping\";s:0:\"\";s:10:\"first_name\";s:0:\"\";s:9:\"last_name\";s:0:\"\";s:7:\"company\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:5:\"email\";s:15:\"admin@admin.com\";s:19:\"shipping_first_name\";s:0:\"\";s:18:\"shipping_last_name\";s:0:\"\";s:16:\"shipping_company\";s:0:\"\";}\";}',1518882760);
 
 /*!40000 ALTER TABLE `wpwc_woocommerce_sessions` ENABLE KEYS */;
 UNLOCK TABLES;

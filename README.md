@@ -10,9 +10,9 @@ You can use it to test the [WooCommerce Mondial Relay plugin](https://www.mondia
 
 Component | Version
 |:--- |:----
-Wordpress | 4.9.1
-WooCommerce | 3.2.6
-Storefront | 2.2.5
+Wordpress | 4.9.4
+WooCommerce | 3.3.1
+Storefront | 2.2.8
 
 ## Installation
 

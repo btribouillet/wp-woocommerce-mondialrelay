@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Storefront package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-12-18 10:02:23+0000\n"
+"PO-Revision-Date: 2018-02-02 06:46:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +19,11 @@ msgstr "Storefront"
 msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love it's lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!"
 msgstr "Storefront est le thème parfait pour votre prochain projet WooCommerce. Conçu et développé par les développeurs de WooCommerce Core, il propose ainsi une intégration parfaite avec WooCommerce et la plupart de ses extensions. Plusieurs mises en page et options de couleur pour personnaliser votre boutique sont disponibles, ainsi que plusieurs zones de widgets, un design adaptable et bien plus encore. Les développeurs adoreront le code de base léger et extensible qui en fait une joie à personnaliser et à déveropper. Vous recherchez un thème WooCommerce ? Ne cherchez pas plus loin !"
 
-#: inc/class-storefront.php:317
+#: inc/storefront-template-functions.php:130
+msgid "Built with Storefront &amp; WooCommerce"
+msgstr "Construit avec Storefront &amp; WooCommerce"
+
+#: inc/class-storefront.php:332
 msgid "Post Navigation"
 msgstr "Navigation de l'article"
 
@@ -146,52 +150,52 @@ msgstr "Ceci est votre page d'accueil et c'est ce que la plupart des visiteurs v
 msgid "Welcome"
 msgstr "Bienvenue"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:131
+#: inc/nux/class-storefront-nux-guided-tour.php:145
 msgid "Done"
 msgstr "Terminé"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:129
+#: inc/nux/class-storefront-nux-guided-tour.php:143
 msgid "All set! Remember to %ssave & publish%s your changes when you're done.%sYou can return to your dashboard by clicking the X in the top left corner."
 msgstr "C'est bon ! Pensez à %ssave & publish%s vos modifications quand vous aurez fini.%sVous pouvez retourner sur votre tableau de bord en cliquand sur le X en haut à gauche."
 
-#: inc/nux/class-storefront-nux-guided-tour.php:123
+#: inc/nux/class-storefront-nux-guided-tour.php:137
 msgid "Choose colors for your button backgrounds and text. Once again, brand colors are good choices here."
 msgstr "Choisissez les couleurs d'arrière plan et du texte de votre bouton. Les couleurs de votre marque sont de nouveau recommandées."
 
-#: inc/nux/class-storefront-nux-guided-tour.php:122
+#: inc/nux/class-storefront-nux-guided-tour.php:136
 msgid "Color your buttons"
 msgstr "Colorez vos boutons"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:117
+#: inc/nux/class-storefront-nux-guided-tour.php:131
 msgid "In the typography panel you can specify an accent color which will be applied to things like links and star ratings. We recommend using your brand color for this setting."
 msgstr "Dans le panneau de la typographie, vous pouvez choisir la couleur principale qui sera utilisée pour des éléments tels que les liens et le système de notation par étoiles. Nous vous recommendons d'utiliser la couleur de votre marque pour cette option."
 
-#: inc/nux/class-storefront-nux-guided-tour.php:116
+#: inc/nux/class-storefront-nux-guided-tour.php:130
 msgid "Choose your accent color"
 msgstr "Choisissez votre couleur principale"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:111
+#: inc/nux/class-storefront-nux-guided-tour.php:118
 msgid "Open the Site Identity Panel, then click the 'Select Logo' button to upload your logo."
 msgstr "Ouvrez le panneau Identité du site, puis cliquez sur le bouton \"Sélectionner un logo\" pour téléverser votre logo."
 
-#: inc/nux/class-storefront-nux-guided-tour.php:104
+#: inc/nux/class-storefront-nux-guided-tour.php:110
 msgid "Here you can control the overall look and feel of your store.%sTo get started, let's add your logo"
 msgstr "Ici, vous pouvez paramétrer l'apparence et le ressenti de votre boutique.%sCommençons par ajouter votre logo."
 
-#: inc/nux/class-storefront-nux-guided-tour.php:103
+#: inc/nux/class-storefront-nux-guided-tour.php:109
 msgid "Welcome to the Customizer"
 msgstr "Bienvenue dans l'outil de personnalisation"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:85
+#: inc/nux/class-storefront-nux-guided-tour.php:91
 msgid "Skip this step"
 msgstr "Passer cette étape"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:83
+#: inc/nux/class-storefront-nux-guided-tour.php:89
 msgid "No thanks, skip the tour"
 msgstr "Non merci, ignorer la visite guidée"
 
 #: inc/nux/class-storefront-nux-admin.php:125
-#: inc/nux/class-storefront-nux-guided-tour.php:105
+#: inc/nux/class-storefront-nux-guided-tour.php:111
 msgid "Let's go!"
 msgstr "C'est parti !"
 
@@ -235,19 +239,19 @@ msgstr "Pour activer les fonctions liées au e-commerce, vous devez installer l'
 msgid "Thanks for installing Storefront, you rock! 🤘"
 msgstr "Merci d'avoir installé Storefront, vous assurez ! 🤘"
 
-#: inc/class-storefront.php:158
+#: inc/class-storefront.php:171
 msgid "Widgets added here will appear in column %1$d of footer row %2$d."
 msgstr "Les widgets ajoutés ici apparaîtront dans la colonne %1$d du pied de page, ligne %2$d."
 
-#: inc/class-storefront.php:157
+#: inc/class-storefront.php:170
 msgid "Footer Row %1$d - Column %2$d"
 msgstr "Ligne du pied de page %1$d - colonne %2$d"
 
-#: inc/class-storefront.php:155
+#: inc/class-storefront.php:168
 msgid "Widgets added here will appear in column %1$d of the footer."
 msgstr "Les widgets ajoutés ici apparaîtront dans la colonne %1$d du pied de page."
 
-#: inc/class-storefront.php:154
+#: inc/class-storefront.php:167
 msgid "Footer Column %1$d"
 msgstr "Colonne du pied de page %1$d"
 
@@ -353,15 +357,15 @@ msgstr "Documentation"
 msgid "Support"
 msgstr "Assistance"
 
-#: inc/class-storefront.php:142
+#: inc/class-storefront.php:155
 msgid "Widgets added to this region will appear beneath the header and above the main content."
 msgstr "Les widgets ajoutées à cette zone apparaitront sous le titre et au dessus du contenu principal."
 
-#: inc/woocommerce/storefront-woocommerce-template-functions.php:365
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:371
 msgid "My Account"
 msgstr "Mon compte"
 
-#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:338
+#: 404.php:25 inc/woocommerce/storefront-woocommerce-template-functions.php:344
 msgid "Search"
 msgstr "Recherche"
 
@@ -405,7 +409,7 @@ msgstr "Écrit par"
 msgid "Menu"
 msgstr "Menu"
 
-#: inc/class-storefront.php:140
+#: inc/class-storefront.php:153
 msgid "Below Header"
 msgstr "En-dessous de l'en-tête"
 
@@ -417,11 +421,11 @@ msgstr "Vous appréciez %s ?"
 msgid "An %s project"
 msgstr "Un projet %s"
 
-#: inc/woocommerce/storefront-woocommerce-template-functions.php:263
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:269
 msgid "On Sale Now"
 msgstr "En vente maintenant"
 
-#: inc/woocommerce/storefront-woocommerce-template-functions.php:271
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:277
 msgid "New In Store"
 msgstr "Nouveau en magasin"
 
@@ -474,12 +478,12 @@ msgid "Product Categories"
 msgstr "Catégories de produit"
 
 #: inc/storefront-template-functions.php:674
-#: inc/woocommerce/storefront-woocommerce-template-functions.php:255
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:261
 msgid "Featured Products"
 msgstr "Produits mis en avant"
 
 #: inc/woocommerce/storefront-woocommerce-template-functions.php:74
-#: inc/woocommerce/storefront-woocommerce-template-functions.php:351
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:357
 msgid "View your shopping cart"
 msgstr "Afficher votre panier"
 
@@ -492,7 +496,7 @@ msgctxt "post date"
 msgid "Posted on %s"
 msgstr "Publié le %s"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:77
+#: inc/nux/class-storefront-nux-guided-tour.php:83
 msgid "Next"
 msgstr "Suivant"
 
@@ -535,10 +539,6 @@ msgstr "Navigation secondaire"
 msgid "Skip to content"
 msgstr "Aller au contenu"
 
-#: inc/storefront-template-functions.php:130
-msgid "%1$s designed by %2$s."
-msgstr "%1$s design par %2$s."
-
 #: inc/storefront-template-functions.php:232
 msgid "Primary Navigation"
 msgstr "Navigation principale"
@@ -556,7 +556,7 @@ msgstr "Votre commentaire est en attente de modération"
 msgid "Handheld Menu"
 msgstr "Menu pour mobiles"
 
-#: inc/class-storefront.php:134
+#: inc/class-storefront.php:147
 msgid "Sidebar"
 msgstr "Barre latérale"
 
@@ -661,7 +661,7 @@ msgstr "Arrière-plan"
 msgid "Install WooCommerce"
 msgstr "Installer WooCommerce"
 
-#: inc/nux/class-storefront-nux-guided-tour.php:110
+#: inc/nux/class-storefront-nux-guided-tour.php:117
 msgid "Add your logo"
 msgstr "Ajouter votre logo"
 
@@ -720,7 +720,3 @@ msgstr "https://woocommerce.com/"
 #. Theme URI of the plugin/theme
 msgid "https://woocommerce.com/storefront"
 msgstr "https://woocommerce.com/storefront"
-
-#. Author of the plugin/theme
-msgid "WooThemes"
-msgstr "WooThemes"
