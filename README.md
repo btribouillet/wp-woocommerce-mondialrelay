@@ -11,7 +11,7 @@ You can use it to test the [WooCommerce Mondial Relay plugin](https://www.mondia
 Component | Version
 |:--- |:----
 Wordpress | 4.9.4
-WooCommerce | 3.3.1
+WooCommerce | 3.3.3
 Storefront | 2.2.8
 
 ## Installation
