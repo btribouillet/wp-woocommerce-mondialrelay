@@ -10,9 +10,9 @@ You can use it to test the [WooCommerce Mondial Relay plugin](https://www.mondia
 
 Component | Version
 |:--- |:----
-Wordpress | 4.9.4
-WooCommerce | 3.3.4
-Storefront | 2.2.8
+Wordpress | 4.9.6
+WooCommerce | 3.4.0
+Storefront | 2.3.1
 
 ## Installation
 
@@ -30,7 +30,7 @@ Storefront | 2.2.8
 - Install [WooCommerce Mondial Relay plugin](https://www.mondialrelay-woocommerce.com/).
 This plugin is a paid plugin. It’s not included in this project.
 After installation, the Mondial Relay plugin is already configured. [See details here](#woocommerce-mondial-relay-configuration).
-- You have to enter your Google Api Key on the ``Settings`` page of WooCommerce Mondial Relay plugin in Wordpress administration if you want to display Google Map in the widget on the checkout page.
+- You have to enter your Google Api Key on the `Settings` page of WooCommerce Mondial Relay plugin in Wordpress administration if you want to display Google Map in the widget on the checkout page.
 You can create an Google API Key on https://developers.google.com/maps/documentation/javascript/get-api-key
 
 ## Database informations
@@ -45,7 +45,8 @@ You can create an Google API Key on https://developers.google.com/maps/documenta
 
 ## Themes installed
 
-- Storefront *(activated)*
+- WooCommerce Mondial Relay (a simple Storefront child) *(activated)*
+- Storefront
 
 ## Plugins installed
 
